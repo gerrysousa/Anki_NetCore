@@ -73,7 +73,7 @@ namespace AnkiV2.Helpers
 
         public static string GetProjectBinDebugPath()
         {
-            return GetProjectPath() + "bin//Debug//"+ BuilderJson.ReturnParameterAppSettings("PATH_DEBUG_NET_CORE");
+            return GetProjectPath() + "bin//Debug//"+ GlobalParameters.CONFIG_PATH_DEBUG_NET_CORE;
         }
 
         public static string GetProjectBinReleasePath()

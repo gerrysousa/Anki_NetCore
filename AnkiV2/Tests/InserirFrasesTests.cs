@@ -18,8 +18,8 @@ namespace AnkiV2.Tests
         [OneTimeSetUp]
         public void OneTimeSetUp2()
         {
-            loginPage.PreencherEmail("XXXxXXX");
-            loginPage.PreencherSenha("xxxxxxx");
+            loginPage.PreencherEmail(GlobalParameters.ANKI_USUARIO);
+            loginPage.PreencherSenha(GlobalParameters.ANKI_SENHA);
             loginPage.ClicarBotaoLogin();
 
             areaLogadaPage.ClicarBotaoAdd();

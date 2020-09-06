@@ -14,7 +14,7 @@ namespace AnkiV2.Bases
             ExtentReportHelpers.CreateReport();
             DriverFactory.CreateInstance();
             ExtentReportHelpers.AddTest();
-            DriverFactory.INSTANCE.Navigate().GoToUrl(BuilderJson.ReturnParameterAppSettings("DEFAULT_APPLICATION_URL"));
+            DriverFactory.INSTANCE.Navigate().GoToUrl(GlobalParameters.CONFIG_DEFAULT_APPLICATION_URL);
 
             #region [AutoInstance] atribute methods calls to auto instace pages and flows
             //Necessário para realizar a instanciação automática das páginas e fluxos

@@ -14,7 +14,7 @@ namespace AnkiV2.Helpers
 {
     public class Browsers
     {
-        private static string seleniumHub = BuilderJson.ReturnParameterAppSettings("SELENIUM_HUB");
+        private static string seleniumHub = GlobalParameters.CONFIG_SELENIUM_HUB;
 
         #region Chrome
         public static IWebDriver GetLocalChrome()

@@ -13,9 +13,9 @@ namespace AnkiV2.Helpers
 
         public static void CreateInstance()
         {
-            string browser = BuilderJson.ReturnParameterAppSettings("BROWSER");
-            string execution = BuilderJson.ReturnParameterAppSettings("EXECUTION");
-            bool headless = bool.Parse(BuilderJson.ReturnParameterAppSettings("HEADLESS"));
+            string browser = GlobalParameters.CONFIG_BROWSER;
+            string execution = GlobalParameters.CONFIG_EXECUTION;
+            bool headless = GlobalParameters.CONFIG_BROWSER_HEADLESS;
 
             if (INSTANCE == null)
             {

@@ -12,11 +12,11 @@ namespace AnkiV2.Helpers
     {
         private static SqlConnection GetDBConnection()
         {
-            string connectionString = "Data Source=" + BuilderJson.ReturnParameterAppSettings("DB_URL") + "," + BuilderJson.ReturnParameterAppSettings("DB_PORT") + ";" +
-                                      "Initial Catalog=" + BuilderJson.ReturnParameterAppSettings("DB_NAME") + ";" +
-                                      "User ID=" + BuilderJson.ReturnParameterAppSettings("DB_USER") + "; " +
-                                      "Password=" + BuilderJson.ReturnParameterAppSettings("DB_PASSWORD") + ";";
-          
+            string connectionString = "Data Source=" + GlobalParameters.DB_URL + "," + GlobalParameters.DB_PORT + ";" +
+                                      "Initial Catalog=" + GlobalParameters.DB_NAME + ";" +
+                                      "User ID=" + GlobalParameters.DB_USER + "; " +
+                                      "Password=" + GlobalParameters.DB_PASSWORD + ";";
+
             SqlConnection connection = new SqlConnection(connectionString);
 
             return connection;
@@ -26,7 +26,7 @@ namespace AnkiV2.Helpers
         {
             using (SqlCommand cmd = new SqlCommand(query, GetDBConnection()))
             {
-                cmd.CommandTimeout = Int32.Parse(BuilderJson.ReturnParameterAppSettings("DB_CONNECTION_TIMEOUT"));
+                cmd.CommandTimeout = GlobalParameters.DB_CONNECTION_TIMEOUT;
                 cmd.Connection.Open();
                 cmd.ExecuteNonQuery();
                 cmd.Connection.Close();
@@ -40,7 +40,7 @@ namespace AnkiV2.Helpers
 
             using (SqlCommand cmd = new SqlCommand(query, GetDBConnection()))
             {
-                cmd.CommandTimeout = Int32.Parse(BuilderJson.ReturnParameterAppSettings("DB_CONNECTION_TIMEOUT"));
+                cmd.CommandTimeout = GlobalParameters.DB_CONNECTION_TIMEOUT;
                 cmd.Connection.Open();
 
                 DataTable table = new DataTable();
