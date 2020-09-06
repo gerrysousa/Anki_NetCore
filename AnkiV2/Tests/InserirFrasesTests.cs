@@ -44,6 +44,7 @@ namespace AnkiV2.Tests
             areaLogadaPage.EscreverBackCard(back);
             areaLogadaPage.EscreverTagCard("Automatico_Sem_audio");
             areaLogadaPage.ClicarBotaoSalvar();
+            Thread.Sleep(500);
         }
 
     }

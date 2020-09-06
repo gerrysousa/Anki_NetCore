@@ -27,6 +27,7 @@ namespace AnkiV2.Helpers
             chromeOptions.AddArgument("--disable-dev-shm-usage");
             chromeOptions.AddArgument("--disable-browser-side-navigation");
             chromeOptions.AddArgument("--disable-gpu");
+            chromeOptions.AddArgument("--disable-notifications");
             chromeOptions.PageLoadStrategy = PageLoadStrategy.Normal;
 
             return new ChromeDriver(GeneralHelpers.GetProjectBinDebugPath(), chromeOptions);
@@ -47,6 +48,7 @@ namespace AnkiV2.Helpers
         {
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.AddArguments("--headless");
+            chromeOptions.AddArgument("no-sandbox");
 
             return new ChromeDriver(GeneralHelpers.GetProjectBinDebugPath(), chromeOptions);
         }

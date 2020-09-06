@@ -126,6 +126,7 @@ namespace AnkiV2.Bases
         protected void SendKeys(By locator, string text)
         {
             Clear(locator);
+            Console.WriteLine(text);
             WaitForElement(locator).SendKeys(text);
             ExtentReportHelpers.AddTestInfo(3, "PARAMETER: " + text);
         }
@@ -136,7 +137,7 @@ namespace AnkiV2.Bases
             WaitForElement(locator).SendKeys(text);
             ExtentReportHelpers.AddTestInfo(3, "PARAMETER: xxxxxxx");
         }
-        
+
 
         protected void SendKeysWithoutWaitVisible(By locator, string text)
         {
