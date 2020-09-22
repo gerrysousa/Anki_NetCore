@@ -17,5 +17,6 @@ Onde "front" é a frase que se deseja aprender e "back" é o significado/traduç
 Para executar a automação, basta inserir as frases no arquivo CSV, abrir o projeto no Visual Studio e executar o teste "InserirNovasFrasesTeste".
 ou executar os comandos 
 
+$ dotnet restore
 $ dotnet build C:\workspace\Anki_NetCore\AnkiV2.csproj
 $ dotnet test C:\workspace\Anki_NetCore\AnkiV2\bin\Debug\netcoreapp3.1\AnkiV2.dll
