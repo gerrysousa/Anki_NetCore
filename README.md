@@ -7,9 +7,7 @@ Esse projeto é uma automação para facilitar a inserção de frases no Anki We
 Obs.:
 No diretório "AnkiV2/Resources/" existe um arquivo "AnkiFrases.csv" com as frases que serão lidas pela automação e inseridas no Anki Web.
 
-A estrutura do CSV é 
-front;back
-front;back
+A estrutura do CSV é: 
 front;back
 
 Onde "front" é a frase que se deseja aprender e "back" é o significado/tradução da primeira frase;
