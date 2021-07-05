@@ -41,6 +41,7 @@ namespace AnkiV2.Tests
             string back = testData[1].ToString();
 
             areaLogadaPage.EscreverFrontCard(front);
+            Thread.Sleep(500);
             areaLogadaPage.EscreverBackCard(back);
             areaLogadaPage.EscreverTagCard("Automatico_Sem_audio");
             areaLogadaPage.ClicarBotaoSalvar();

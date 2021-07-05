@@ -31,3 +31,17 @@ $ dotnet build C:\workspace\Anki_NetCore\AnkiV2.csproj
 $ dotnet test C:\workspace\Anki_NetCore\AnkiV2\bin\Debug\netcoreapp3.1\AnkiV2.dll
 
 ```
+
+Para atualizar o chrome faça:
+Tente executar os tests: o erro vai dizer qual o versão do chrome instalado na maquina:
+
+`` Mensagem de erro:
+   OneTimeSetUp: System.InvalidOperationException : session not created: This version of ChromeDriver only supports Chrome version 87
+Current browser version is 91.0.4472.124 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (SessionNotCreated)``
+
+Pegue a versão e vai no arquivo "AnkiV2.csproj" e cole no devido lugar "91.0.4472.124"
+
+Execute ````dotnet restore```
+E veja se a versão foi atualizada
+
+
