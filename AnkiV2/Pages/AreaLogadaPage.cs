@@ -7,10 +7,10 @@ namespace AnkiV2.Pages
     public class AreaLogadaPage : PageBase
     {
         #region Mapping
-        By txtFront = By.Id("f0");
-        By txtBack = By.Id("f1");
-        By txtTag = By.Id("f-1");
-        By btnSalvar = By.XPath("//button[text()='Save']");
+        By txtFront =By.XPath("//div[span='Front']/div/div");//By.Id("f0");
+        By txtBack = By.XPath("//div[span='Back']/div/div");//By.Id("f1");
+        By txtTag = By.XPath("//div[span='Tags']/div/input");//By.Id("f-1");
+        By btnSalvar = By.XPath("//button[text()='Add']");
         By btnAdd = By.XPath("//a[text()='Add']");
         By msgAddSucesso = By.Id("msg");
         By msgAddSucessoOculta = By.XPath("//div[@id='msg' and @style='display: none;']");
