@@ -18,1934 +18,1682 @@ def criar_csv(pares, nome_arquivo):
 if __name__ == "__main__":
     # Dados de entrada
     texto = """
-I’ll go see if I can persuade the committee — they hold me in high regard.
-Vou ver se consigo persuadir o comitê – eles me têm em alta conta.
+I promise that, from now on, I’ll always tell you the truth.
+Eu prometo que, de agora em diante, eu sempre lhe direi a verdade.
 
-I’ve always held my father in high regard for his hard work to provide for us.
-Sempre tive meu pai em alta conta pelo duro esforço em prover para nós.
+From now on, every student must switch off their phones before coming to my class.
+De agora em diante, todos os alunos deverão desligar os seus celulares antes de vir para a minha aula.
 
-All of us hold the vice president in high regard.
-Todos nós temos o vice-presidente em alta conta.
+The teacher made it known that from now on, she will not tolerate any lateness to class.
+A professora divulgou que, de agora em diante, ela não tolerará quaisquer atrasos para a aula.
 
-We hold these policies in high regard.
-Temos estas políticas em alta conta.
+From now on, I will stop fending for anyone other than myself as it is now every man for himself.
+De agora em diante, eu irei parar de defender a qualquer um além de mim mesmo, já que agora é cada um por si.
 
-I hold you in the highest regard.
-Eu o tenho na maior estima.
+Mary told us that from now on, she wouldn’t be eating any meat or fish as she is starting a vegetarian diet.
+A Mary nos disse que, de agora em diante, ela não comerá nenhuma carne ou peixe, já que está começando uma dieta vegetariana.
 
-The students have a high regard for their teacher.
-Os alunos têm um grande apreço pelo professor.
+After her wedding to Paul yesterday, Alice told us that from now on, we are to refer to her married name.
+Depois do seu casamento com o Paul ontem, a Alice nos disse que, de agora em diante, nós deveremos chamá-la pelo seu nome de casada.
 
-I have a very high regard for him and what he has achieved.
-Eu tenho um grande apreço por ele e por aquilo que ele alcançou.
+From now on you can wear casual clothes to work every Friday.
+De agora em diante, você poderá usar roupas casuais no trabalho toda sexta-feira.
 
-There were armed people about, people with little regard for human life.
-Havia pessoas armadas por ali, pessoas com pouca consideração pela vida humana.
+From here on out, I’m making all the decisions.
+De agora em diante, eu tomarei todas as decisões.
 
-The Party ruled the country without regard for the people’s views.
-O Partido governava o país sem consideração pelos pontos de vista das pessoas.
+We need to follow the map from here on out — otherwise, we’re liable to get lost.
+Nós precisamos seguir o mapa de agora em diante — caso contrário, nós poderemos nos perder.
 
-I have no regard for his opinions.
-Eu não tenho respeito pelas opiniões dele.
+I was lucky to escape from the accident with just a few minor injuries, so from now on I’m going to be much more careful when I drive.
+Eu tive sorte de escapar do acidente com apenas alguns ferimentos leves, então, de agora em diante, eu tomarei muito mais cuidado quando dirigir.
 
-Sending money the old-fashioned way means it can get lost in the mail.
-Enviar dinheiro à moda antiga significa que ele pode ser extraviado.
+From now on the gates will be locked at midnight.
+De agora em diante, os portões serão trancados à meia-noite.
 
-These sweets are still made in the old-fashioned way.
-Esses doces ainda são feitos à moda antiga.
+I’m sorry, I’ll take my responsibilities more seriously from now on.
+Desculpe, eu levarei as minhas responsabilidades mais a sério de agora em diante.
 
-The job was done the old-fashioned way, with teamwork, better quality and new models that appeal to customers.
-O serviço foi feito à moda antiga, com trabalho de equipe, melhor qualidade e modelos novos que atraem os consumidores.
+We stayed up all night talking.
+Nós passamos a noite acordados, conversando.
 
-They beat the other team the old-fashioned way.
-Eles derrotaram o outro time à moda antiga.
+Kate stayed up all night by his bedside.
+A Kate passou a noite acordada ao lado da cama dele.
 
-We should get the truth out of him the old-fashioned way.
-Nós deveríamos arrancar a verdade dele à moda antiga.
+The kids were allowed to stay up all night on New Year’s Eve.
+As crianças tinham permissão para passar a noite acordadas na véspera de Ano Novo.
 
-The doctors took care of her the old-fashioned way.
-Os médicos cuidaram dela à moda antiga.
+We stayed up all night, chatting about old times.
+Nós passamos a noite acordados, conversando sobre os velhos tempos.
 
-Maybe we should try to do this the old-fashioned way.
-Talvez nós devêssemos tentar fazer isso à moda antiga.
+I stayed up all night, watching the Olympics on television.
+Eu passei a noite acordado, assistindo às Olimpíadas na televisão.
 
-I believe that procreation should happen the old-fashioned way.
-Eu acredito que a procriação deveria acontecer à moda antiga.
+They stay up all night and then they don’t do their job properly.
+Eles passam a noite acordados e depois eles não fazem o seu trabalho adequadamente.
 
-I guess I could just seduce her the old-fashioned way.
-Acho que eu poderia simplesmente seduzi-la à moda antiga.
+I was up all night yesterday because I had drunk so much coffee.
+Eu passei a noite acordado ontem porque eu havia bebido café demais.
 
-If she doesn’t call us after 5 minutes, we’ll do it the old-fashioned way.
-Se ela não nos ligar em 5 minutos, nós faremos isso à moda antiga.
+She had been up all night studying.
+Ela havia passado a noite acordada, estudando.
 
-Either we maintain our command structure or else we settle our differences the old-fashioned way.
-Ou nós mantemos a nossa estrutura de comando, ou então nós resolvemos as nossas diferenças à moda antiga.
+The cafe filled up with students who had been up all night.
+A cafeteria encheu de estudantes que haviam passado a noite acordados.
 
-Good old John: you can always count on him to help.
-O bom e velho John: você sempre pode contar com ele para ajudar.
+We were up all night trying to figure out what to do.
+Nós passamos a noite acordados tentando resolver o que fazer.
 
-I don’t need fancy shoes. I prefer good old sneakers.
-Eu não preciso de sapatos chiques. Eu prefiro os bons e velhos tênis.
+Our son was up all night long with a headache, so everyone is feeling pretty tired today.
+O nosso filho passou a noite acordado com dor de cabeça, então todos estão se sentindo bem cansados hoje.
 
-There is nothing wrong with good old cauliflower cheese.
-Não há nada de errado com uma boa e velha couve-flor gratinada.
+The book was so interesting that I sat up all night reading it.
+O livro estava tão interessante que eu passei a noite acordado, lendo-o.
 
-Good old Margaret, she’s always there when you need her.
-A boa e velha Margaret, ela está sempre lá quando você precisa dela.
+The nurse sat up all night by her side.
+A enfermeira passou a noite acordada ao lado dela.
 
-Good old Harry. Reliable to the end.
-O bom e velho Harry. Confiável até o fim.
+My parents sat up all night waiting for me to come home.
+Meus pais passaram a noite acordados, esperando eu voltar para casa.
 
-If you need excitement and a good old dose of adrenalin, then the Ducati is a top option.
-Se você precisa de emoção e de uma boa e velha dose de adrenalina, então a Ducati é a melhor opção.
+I’ve found a witness willing to name names.
+Eu encontrei uma testemunha disposta a dar nome aos bois.
 
-Our only hope is a good old winter storm over the Christmas holiday.
-A nossa única esperança é uma boa e velha tempestade de inverno durante o Natal.
+I hate to name names, but Brian and Mitch were the ones who did the graffiti. I saw it myself.
+Eu detesto dar nome aos bois, mas foram o Brian e o Mitch que fizeram a pichação. Eu vi com os meus próprios olhos.
 
-I wish my grandma would stop going on about the good old days.
-Eu queria que a minha vó parasse de falar sobre os bons e velhos tempos.
+I’m not going to name names, but several of you have been coming in late and going home early. This needs to stop.
+Eu não irei dar nome aos bois, mas vários de vocês têm chegado tarde e ido para casa cedo. Isso precisa parar.
 
-They were talking about the good old days.
-Eles estavam conversando sobre os bons e velhos tempos.
+More than one person was involved in the robbery, and his lawyer said he would get a shorter sentence if he named names.
+Mais de uma pessoa estava envolvida no assalto, e o advogado dele disse que ele receberia uma sentença menor se desse nome aos bois.
 
-In the 1960s, everything seemed possible. Those were the good old days.
-Nos anos 60, tudo parecia possível. Aqueles eram os bons e velhos tempos.
+Some of our neighbors disobey the town’s leash law, but I’m naming no names.
+Alguns dos nossos vizinhos desobedecem a lei da cidade que exige o uso de coleira em animais, mas eu não darei nome aos bois.
 
-They loved to sit and chat about the good old days.
-Eles amavam sentar e conversar sobre os bons e velhos tempos.
+He was under pressure from the police to name names.
+Ele estava sendo pressionado pela polícia para dar nome aos bois.
 
-I married my soulmate, you don’t get much luckier than that.
-Casei-me com minha alma gêmea, é difícil ter mais sorte do que isso!
+If the newspapers really know the people responsible for these terrible crimes, then they should name names.
+Se os jornais realmente conhecem as pessoas responsáveis por esses crimes terríveis, então eles deveriam dar nome aos bois.
 
-Later that year she met Adam and she knew instantly that they were soulmates.
-Mais tarde naquele ano ela encontrou Adam, e percebeu instantaneamente que eles eram almas gêmeas.
+I won’t name names, but there are some people in this room who have broken several of the club’s rules.
+Eu não irei dar nome aos bois, mas há certas pessoas nessa sala que quebraram várias regras do clube.
 
-They are a husband and wife who are perfect soulmates.
-Eles são um homem e mulher que são almas gêmeas perfeitas.
+She said she would never name names, even if she were offered money.
+Ela disse que jamais daria nome aos bois, mesmo que lhe oferecessem dinheiro.
 
-They are ideological soulmates.
-Ideologicamente, eles são almas gêmeas.
+If you’re convinced my staff is part of this operation, then name names.
+Se você está convencido de que os meus funcionários são parte dessa operação, então dê nome aos bois.
 
-Steve and I became soulmates, near-constant companions.
-Steve e eu viramos almas gêmeas, companheiros quase que constantes.
+Nobody was prepared to risk prosecution by actually naming names.
+Ninguém estava preparado para arriscar um processo por de fato dar nome aos bois.
 
-When it comes to chess, we are soulmates. We like the same openings, we play the same attacking style.
-No que se refere ao xadrez, somos almas gêmeas. Gostamos das mesmas aberturas, jogamos o mesmo estilo de ataque.
+We’ve been affiliated to Hostelling International for more than 15 years.
+Nós somos afiliados à Hostelling International há mais de 15 anos.
 
-I longed to find a kindred spirit.
-Eu ansiava encontrar uma alma gêmea.
+I’ve been maintaining strong international partnerships for more than 25 years.
+Eu mantenho fortes parcerias internacionais há mais de 25 anos.
 
-How could I recognise a kindred spirit, a possible friend?
-Como eu podia reconhecer uma alma gêmea, um possível amigo?
+We have been providing innovative manufacturing technology for more than fifteen years.
+Nós fornecemos tecnologias de fabricação inovadoras há mais de quinze anos.
 
-When I saw his work for the first time, I recognized a kindred spirit.
-Quando vi a obra dele pela primeira vez, reconheci uma alma gêmea.
+This library has existed for more than four hundred years.
+Esta biblioteca existe há mais de quatrocentos anos.
 
-He told her they were kindred spirits and were fated to fall in love.
-Ele disse a ela que eles eram almas gêmeas e destinados a se apaixonar.
+The brand has been making history in the naval industry for more than 75 years.
+A marca vem fazendo história na indústria naval há mais de 75 anos.
 
-We are kindred spirits.
-Somos almas gêmeas.
+I’m starting to get worried. He’s been gone for over an hour.
+Eu estou começando a ficar preocupado. Ele foi embora há mais de uma hora.
 
-We recognized each other as kindred spirits as soon as we met.
-Reconhecemo-nos como almas gêmeas assim que nos conhecemos.
+We’ve known each other for over a decade.
+Nós nos conhecemos há mais de uma década.
 
-It was just as well I didn’t know at the time.
-Ainda bem que eu não sabia na época.
+She’s been an outspoken feminist for over twenty years.
+Ela tem sido uma feminista ferrenha há mais de vinte anos.
 
-It’s just as well she didn’t get that job, since she will now be closer to home.
-Ainda bem que ela não conseguiu aquele emprego, já que agora ela vai ficar mais perto de casa.
+I’ve been smoking for over ten years, and I can’t stop.
+Eu fumo há mais de dez anos e não consigo parar.
 
-I really didn’t want to stay home this weekend, but it’s just as well. I have a lot to do.
-Eu realmente não queria ficar em casa esse final de semana, mas ainda bem. Tenho um monte de coisa para fazer.
+Bentley has been providing solutions to highway agencies for over three decades.
+A Bentley fornece soluções para concessionárias de rodovias há mais de três décadas.
 
-It’s beginning to rain – it’s just as well that we brought our umbrellas.
-Está começando a chover – ainda bem que trouxemos nossos guarda-chuvas.
+Sefar has served the chemical and mining industries for over 50 years.
+A Sefar atende as indústrias química e de mineração há mais de 50 anos.
 
-It’s a good thing we brought some food with us.
-Ainda bem que trouxemos comida conosco.
+He was a huge yes-man.
+Ele era uma baita vaquinha de presépio.
 
-It’s a good thing this happened now, before it’s too late.
-Ainda bem que isto aconteceu agora, antes que seja tarde demais.
+To be sure, this skepticism of the yes-man mentality has advantages.
+Com certeza, esse ceticismo da mentalidade de vaquinha de presépio tem vantagens.
 
-Good thing they didn’t go camping last weekend – the weather was terrible.
-Ainda bem que eles não foram acampar no final de semana passada – o tempo estava terrível.
+Becoming a dull yes-man seemed too big a price to pay.
+Tornar-se uma vaquinha de presépio sem graça parecia um preço grande demais a pagar.
 
-It’s a good thing you called – Mom was starting to get worried.
-Ainda bem que você ligou – a mãe estava começando a ficar preocupada.
+“I totally agree,” the yes-man said with a smile.
+“Eu concordo totalmente”, a vaquinha de presépio disse com um sorriso.
 
-It’s a good job I remembered to bring an umbrella.
-Ainda bem que eu lembrei de trazer um guarda-chuva.
+They are all a bunch of yes-men.
+Eles são todos um bando de vaquinhas de presépio.
 
-It’s a good job you aren’t married.
-Ainda bem que você não está casado.
+A country of yes-men is a country marked for destruction.
+Um país de vaquinhas de presépio é um país fadado à destruição.
 
-It’s a good job it happened here rather than on the open road.
-Ainda bem que isso aconteceu aqui, e não na estrada aberta.
+That can happen to rich guys, particularly those who prefer to surround themselves with yes-men.
+Isso pode acontecer com caras ricos, especialmente aqueles que preferem se cercar de vaquinhas de presépio.
 
-All right… you’re the boss.
-Está bem… você é quem manda.
+This is making the policemen seem like subservient yes-men.
+Isso está fazendo os policiais parecerem vaquinhas de presépio subservientes.
 
-– Let’s continue working on this tomorrow. Time to go home now.
-– OK, you’re the boss.
+He accused the president of surrounding himself with yes-men, rewarding only sycophancy and punishing dissent.
+Ele acusou o presidente de cercar-se de vaquinhas de presépio, recompensando apenas a bajulação e punindo a dissensão.
 
-– Vamos continuar trabalhando nisso amanhã. Agora está na hora de ir para casa.
-– OK, você é quem manda.
+None of those yes-men that you call advisors will ever tell you what you need to hear.
+Nenhuma daquelas vaquinhas de presépio que você chama de conselheiros jamais lhe dirá o que você precisa ouvir.
 
-Well, if you say so, let’s do it. You’re the boss!
-Bem, se é assim vamos em frente. Você é quem manda.
+Have you met Christina’s fiancé?
+Você já conheceu o noivo da Christina?
 
-I think that if we’re going to do this we should make sure we get official permission, but you’re the boss.
-Acho que, se formos fazer isso, deveríamos garantir que temos uma permissão oficial, mas você é quem manda.
+Let me introduce my fiancé.
+Permita-me apresentar o meu noivo.
 
-Well, you’re the boss, I suppose… just don’t blame me if this doesn’t go down well.
-Bem, é você quem manda, imagino… só não me culpe se isso não der certo.
+She couldn’t wait to show off her fiancé to all of her relatives.
+Ela mal podia esperar para exibir o seu noivo a todos os seus parentes.
 
-Well, you’re the boss. Let’s get down to business, then.
-Bem, é você quem manda. Vamos direto ao que importa, então.
+My fiancé just bought me this. Isn’t it gorgeous?
+Meu noivo acabou de me comprar isso. Não é lindo?
 
-Well, you’re the boss — whatever you say goes.
-Bem, é você quem manda – o que você disser vale.
+Does anyone know where the groom is?
+Alguém sabe onde o noivo está?
 
-Are you sure you want to do this? Yes? Well, you’re the boss. Let’s do it.
-Tem certeza de que você quer fazer isso? Sim? Bem, você é quem manda. Vamos lá.
+The bride and groom walked down the aisle together.
+A noiva e o noivo caminharam até o altar juntos.
 
-If you really want to do this, let’s go ahead and do it. You’re the boss.
-Se você realmente quer fazer isso, vamos em frente. É você quem manda.
+The expression on the groom’s face when he saw the bride was priceless.
+A expressão facial do noivo quando ele viu a noiva foi inestimável.
 
-Whatever you say – you’re the boss.
-O que você disser – é você quem manda.
+Now, if you’d all please raise your glasses, I’d like to propose a toast to the bride and groom.
+Agora, se todos puderem, por favor, erguer as suas taças, eu gostaria de propor um brinde à noiva e ao noivo.
 
-No offense, but I think you are mistaken.
-Sem ofensas, mas eu acho que você está enganado.
+His fiancée is insisting on an elaborate wedding.
+A noiva dele está insistindo em um casamento elaborado.
 
-Dad, you need a bath. No offence.
-Pai, você precisa de um banho. Sem ofensas.
+It would be unfair to marry your fiancée without being honest with her.
+Seria injusto casar com a sua noiva sem ser honesto com ela.
 
-I’m not sure you’re the best person for the job. No offense, Charlie.
-Eu não tenho certeza de que você é a melhor pessoa para o serviço. Sem ofensas, Charlie.
+I even bought a pearl necklace for my fiancée, but she married somebody else instead.
+Eu até mesmo comprei um colar de pérolas para a minha noiva, mas ela se casou com outra pessoa em vez de comigo.
 
-No offence, but I think it may be time you cleaned up your kitchen.
-Sem ofensas, mas eu acho que talvez esteja na hora de você arrumar a sua cozinha.
+If a relative announces his engagement, you must at once go to see his fiancée.
+Se um parente anuncia seu noivado, você precisa imediatamente ir ver a noiva dele.
 
-All I’m saying is that I think we could use some more help with the renovation. No offense, John, you’ve been a big help.
-Só estou dizendo que eu acho que precisamos de mais ajuda com a reforma. Sem ofensas, John, você tem ajudado muito.
+After the ceremony, the bride lifted up her veil to kiss her husband.
+Após a cerimônia, a noiva ergueu o seu véu para beijar o seu marido.
 
-No offense, but I’d really like to be on my own.
-Sem ofensas, mas eu realmente gostaria de ficar sozinho.
+In some countries, it is traditional for a bride to wear white.
+Em alguns países, é tradição a noiva usar branco.
 
-No offense, but this cheese tastes like rubber.
-Sem ofensas, mas este queijo tem gosto de borracha.
+The bride and groom posed for pictures outside the church.
+A noiva e o noivo posaram para fotos do lado de fora da igreja.
 
-No offense, but I find your sister a little rude.
-Sem ofensas, mas eu acho a sua irmã um pouco rude.
+As the mother of the bride, I feel obliged to wear something really spectacular.
+Como mãe da noiva, eu me sinto obrigada a vestir algo muito espetacular.
 
-If you don’t mind, I’d rather go on my own ‒ no offense, but I think it would be better.
-Se você não se importar, eu preferiria ir sozinho ‒ sem ofensas, mas eu acho que seria melhor.
+Good thing I’m an early riser or else I’d probably miss the beginning of school.
+Ainda bem que eu sou madrugador, caso contrário provavelmente perderia o começo das aulas. (Note que a palavra school, “escola”, pode ser usada no sentido de “aulas”.)
 
-No disrespect to the team, but it wasn’t their best performance.
-Sem ofensas ao time, mas não foi o melhor desempenho deles.
+I was surprised to see him asleep at 10:00, as he’s normally such an early riser.
+Eu me surpreendi de vê-lo dormindo às 10 da manhã, já que normalmente ele é tão madrugador. (Note que “madrugador” é um adjetivo, mas early riser é um substantivo. Por isso, para dizer “tão early riser”, você precisa usar o artigo a, ou no caso an: such an early riser. Um outro exemplo: “Ele é uma pessoa tão boa”, He’s such a good person.)
 
-No disrespect to John Beck, but the club has been happier since he left.
-Sem ofensas ao John Beck, mas o clube tem estado mais feliz desde que ele saiu.
+My wife and I are early risers, usually up by 6.00.
+A minha esposa e eu somos madrugadores, geralmente de pé às 6.
 
-Jerry, no disrespect, but you really need to connect more with your family.
-Jerry, sem ofensas, mas você realmente precisa se relacionar mais com a sua família.
+Maybe he was always such an early riser because he grew up on a farm.
+Talvez ele tenha sempre sido tão madrugador porque cresceu em uma fazenda.
 
-I’m sorry, I meant no offense.
-Desculpe, eu não quis ofender.
+He’d always been an early riser, so getting up for a morning run wasn’t a great chore.
+Ele sempre havia sido madrugador, de forma que não era grande tarefa ter de se levantar para uma corrida matinal.
 
-I mean no offense, but isn’t there someone more qualified for the job?
-Eu não quero ofender, mas não há alguém mais qualificado para o serviço?
+He was always an early bird.
+Ele sempre foi madrugador.
 
-I mean no offence by what I’m about to say, but you look very tired.
-Eu não quero ofender com o que estou prestes a dizer, mas você parece muito cansado.
+I’m usually an early bird: I enjoy the fresh morning air, the first rays of sun, the quiet.
+Geralmente sou madrugador: gosto do ar fresco da manhã, dos primeiros raios de sol, do silêncio.
 
-Any one of your tenants, Sir John, and I mean no offence, could be the assassin.
-Qualquer um dos seus inquilinos, Sir John, e eu não quero ofender, poderia ser o assassino.
+Being an early bird allowed me to get a lot of work done while everyone else was sleeping and there no distractions.
+Ser madrugador me permitia realizar bastante trabalho enquanto todos os outros estavam dormindo e não havia distrações.
 
-“No offense, but your bedroom is a mess.” “No worries, none taken. I’ve been meaning to clean it all week.”
-“Sem ofensas, mas o seu quarto está uma bagunça.” “Sem problemas, não me ofendi. Eu venho querendo limpá-lo a semana inteira.”
+It is the early bird who gets the bargains, apparently.
+É quem chega antes que consegue as pechinchas, aparentemente.
 
-“I don’t think the work you’ve done so far will be enough — no offense.” “None taken. If you need more done, just say the word.”
-“Eu acho que o trabalho que você fez até agora não será o suficiente — sem ofensas.” “Não me ofendi. Se você precisar que mais seja feito, é só falar.”
+Everyone wanted to be an early bird and cash in on the sale.
+Todo o mundo queria chegar adiantado e lucrar com a venda.
 
-“No offense but your hair is pretty messy, Claire.” “None taken, I woke up like this, to be honest.”
-“Sem ofensas, mas seu cabelo está bem bagunçado, Claire.” “Não me ofendi, eu acordei assim, para ser sincera.”
+The early bird gets the worm.
+Quem chega antes sai ganhando.
 
-There was no malice in her, on the contrary, she was very kind.
-Não havia malícia nela, pelo contrário, ela era muito bondosa.
+Are you more of a lark or an owl?
+Você é mais madrugador ou mais coruja?
 
-It wasn’t a good thing, on the contrary it was a huge mistake.
-Isso não era uma boa coisa, pelo contrário, era um grande erro.
+I’m definitely a lark – already as a child I enjoyed getting up early in the morning.
+Eu sou certamente madrugador – já quando era criança eu gostava de me levantar cedo de manhã.
 
-The crime problem has not disappeared. On the contrary, it seems to be becoming worse again.
-O problema da criminalidade não desapareceu. Pelo contrário, parece estar piorando novamente.
+You’re not much of a lark, are you? Getting up at 11am every day.
+Você não é muito madrugador, é? Levantando-se às 11 da manhã todo dia.
 
-– Did I fail the test? – On the contrary, you passed with flying colors!
-– Eu não passei na prova? – Pelo contrário, você passou com louvor!
+He’s not really a morning person – he doesn’t even talk before about eleven o’clock!
+Ele não é mesmo madrugador – ele nem sequer fala antes das onze da manhã!
 
-The risk of infection hasn’t diminished – on the contrary, it has increased.
-O risco de infecção não diminuiu – pelo contrário, aumentou.
+Try not to schedule yourself for 8 am classes unless you’re truly a morning person.
+Tente não se inscrever para aulas das 8 da manhã a menos que você realmente seja madrugador.
 
-It is not an idea around which the Community can unite. On the contrary, I see it as one that will divide us.
-Esta não é uma ideia em torno da qual a comunidade pode se unir. Pelo contrário, eu a vejo como uma ideia que nos dividirá.
+I’m a morning person and like to get most of my work done before midday.
+Eu sou madrugador e gosto de realizar a maior parte do meu trabalho antes do meio-dia.
 
-– I thought you said the film was exciting? – On the contrary, I nearly fell asleep halfway through it!
-– Achei que você disse que o filme era empolgante.  – Pelo contrário, eu quase peguei no sono na metade dele!
+He married his childhood sweetheart last July.
+Ele se casou com o seu amor de infância no último mês de julho.
 
-– People just don’t do things like that. – On the contrary, they do them all the time.
-– As pessoas simplesmente não fazem coisas assim. – Pelo contrário, fazem o tempo todo.
+She was my very first childhood sweetheart.
+Ela foi o meu primeiro amor de infância.
 
-– I suppose your wife doesn’t understand you. – On the contrary, she understands me very well.
-– Imagino que a sua esposa não o entenda. – Pelo contrário, ela me entende muito bem.
+How cute! Mattie drew his childhood sweetheart.
+Que fofo! O Mattie desenhou o seu amor de infância.
 
-And quite the contrary, we have increased oil production.
-E muito pelo contrário, aumentamos a produção de petróleo.
+The football player ended the 18-year relationship with his childhood sweetheart, saying he no longer loved her.
+O jogador de futebol terminou o seu relacionamento de 18 anos com o seu amor de infância, dizendo que não a amava mais.
 
-That is not to say that the film is bad, quite the contrary.
-Isto não quer dizer que o filme seja ruim, muito pelo contrário.
+On December 20, 1769, Garrard married his childhood sweetheart, Elizabeth Mountjoy.
+Em 20 de dezembro de 1769, Garrard se casou com o seu amor de infância, Elizabeth Mountjoy.
 
-There is nothing disreputable or sinister in this, quite the contrary.
-Não há nada desconceituado ou sinistro nisto, muito pelo contrário.
+Riise was married to his childhood sweetheart, the Norwegian model Guri Havnevik, from 2003 until they divorced in 2004.
+Riise foi casado com o seu amor de infância, a modelo norueguesa Guri Havnevik, de 2003 até se divorciarem em 2004.
 
-A liberal secular constitution does not mean intolerance for religious beliefs – quite the contrary.
-Uma constituição liberal secular não significa intolerância por crenças religiosas – muito pelo contrário.
+It’s been one year, 22 weeks and four days since he got married to his childhood sweetheart.
+Faz um ano, 22 semanas e quatro dias que ele se casou com o seu amor de infância.
 
-Your needs do not decrease on retirement, quite the contrary.
-As suas necessidades não diminuem após a aposentadoria, muito pelo contrário.
+They came home proud war heroes and married their childhood sweethearts.
+Eles voltaram para casa orgulhosos heróis de guerra e se casaram com os seus amores de infância.
 
-– Are they happy? – No, no, quite the contrary.
-– Eles estão felizes? – Não, não, muito pelo contrário.
+They were childhood sweethearts and had been together for 11 years.
+Eles eram namorados de infância e haviam estado juntos por 11 anos.
 
-– Was he angry? – No, quite the opposite – he invited me to have dinner with him.
-– Ele ficou bravo? – Não, muito pelo contrário – ele me convidou para jantar com ele.
+He and I are in our thirties but we were childhood sweethearts and have been married for 15 years.
+Ele e eu estamos na casa dos trinta, mas nós éramos namorados de infância e estamos casados há 15 anos.
 
-I didn’t feel sleepy at all – just the opposite, in fact.
-Eu não estava nem um pouco com sono – muito pelo contrário, na verdade.
+She and Fred were childhood sweethearts, but she refuses to admit that.
+Ela e o Fred eram namorados de infância, mas ela se recusa a admitir isso.
 
-I’m not a feminist, quite the opposite.
-Eu não sou feminista, muito pelo contrário.
+Carole married her high school sweetheart after a 10-year relationship!
+A Carole se casou com o seu namorado da escola após um relacionamento de 10 anos!
 
-Brian said he had been in various parts of Britain but did not go into details.
-O Brian disse que ele esteve em várias partes da Grã-Bretanha, mas não entrou em detalhes.
+She married her high school sweetheart when she was very young and stayed at home to raise their four children.
+Ela se casou com o seu namorado da escola quando era muito nova e ficou em casa para criar os seus quatro filhos.
 
-He doesn’t wish to go into detail about all the events of those days.
-Ele não deseja entrar em detalhes sobre todos os eventos daqueles dias.
+He married his high school sweetheart in 1969, and in 1970 their first son was born.
+Ele se casou com a sua namorada da escola em 1969, e, em 1970, seu primeiro filho nasceu.
 
-I did not go into detail on the phone but stressed the importance of what we needed to talk about.
-Eu não entrei em detalhes pelo telefone, mas frisei a importância do que precisávamos conversar.
+She married her high school sweetheart and gave birth to a son; but the marriage ended a few years later.
+Ela se casou com o seu namorado da escola e deu à luz um filho; mas o casamento acabou alguns anos mais tarde.
 
-Mr. Shaw refused to go into detail about the discussions.
-O senhor Shaw se recusou a entrar em detalhes sobre os debates.
+Don likes hockey, but he plays dirty.
+O Don gosta de hóquei, mas ele joga sujo.
 
-I don’t want to go into details, but there were a few legal issues that prevented us from participating.
-Eu não quero entrar em detalhes, mas houveram algumas questões legais que nos impediram de participar.
+The opposition had started to play dirty.
+A oposição havia começado a jogar sujo.
 
-The clerk went into detail about the product with the customer.
-O funcionário entrou em detalhes sobre o produto com o cliente.
+I’d watch out for that prosecutor. I heard he isn’t afraid to play dirty if it helps him win a case.
+Eu ficaria de olho naquele promotor. Eu ouvi que ele não tem medo de jogar sujo se isso o ajudar a vencer um caso.
 
-I can’t go into details now, it would take too long.
-Eu não posso entrar em detalhes agora, levaria muito tempo.
+Of course, even when somebody plays dirty, losing is losing and it’s not long before nobody cares about the details.
+Claro, mesmo quando alguém joga sujo, perder é perder e não demora muito até que ninguém ligue para os detalhes.
 
-I just want a simple answer. Don’t go into details.
-Eu só quero uma resposta simples. Não entre em detalhes.
+During the next election campaign, don’t be surprised when Labour Party plays dirty.
+Durante a próxima campanha eleitoral, não fique surpreso quando o Partido Trabalhista jogar sujo.
 
-I don’t think your essay goes into detail enough about how the three books relate to one another.
-Eu acho que a sua redação não entra em detalhes o suficiente sobre como os três livros se relacionam uns com os outros.
+"There is no way I would devalue the honour of playing for my country by playing dirty,” Harrison said.
+“De jeito nenhum eu desvalorizaria a honra de jogar para o meu país por jogar sujo”, disse Harrison.
 
-The newspaper reports went into great detail about his political background.
-As reportagens do jornal entraram em muitos detalhes sobre os antecedentes políticos dele.
+You can win, without even resorting to playing dirty.
+Você pode vencer, sem nem mesmo recorrer a jogar sujo.
 
-I will try to tell the story without going into too much detail.
-Eu tentarei contar a história sem entrar em muitos detalhes.
+The bad news is that they are doing what they always do: playing dirty.
+A má notícia é que eles estão fazendo o que sempre fazem: jogando sujo.
 
-It’s time to pour oil on troubled waters.
-É hora de colocar panos quentes.
+They could play big; they could not play at all; and they may turn up to find their opponents playing dirty.
+Eles poderiam jogar muito, eles poderiam nem jogar; e eles poderiam acabar descobrindo que seus oponentes jogam sujo.
 
-My husband’s always arguing with my father, and I’m the one who has to pour oil on troubled waters.
-Meu marido está sempre discutindo com meu pai, e sou eu que tenho que colocar panos quentes.
+He stars as the infamous Rankin Fitch, a jury selection specialist not afraid to play dirty if it gets the results his clients pay him big bucks for.
+Ele estrela como o infame Rankin Fitch, um especialista em seleção de júri sem medo de jogar sujo se isso lhe render os resultados pelos quais os seus clientes lhe pagam muito dinheiro.
 
-If those two are arguing again, send Mom in to talk to them — she’s great at pouring oil on troubled waters.
-Se aqueles dois estiverem discutindo novamente, mande a mãe para falar com eles — ela é ótima em colocar panos quentes.
+Their team started playing dirty as soon as they fell behind, throwing sand into other players’ eyes or stepping on their toes when the ref wasn’t looking.
+O time deles começou a jogar sujo assim que ficou para trás, jogando areia nos olhos dos outros jogadores ou pisando nos seus dedões quando o árbitro não estava olhando.
 
-You’ve got what it takes to pour oil on troubled waters right now.
-Você tem o necessário para colocar panos quentes neste momento.
+– It’s cold in here. – You can say that again!
+– Está frio aqui. – Pode crer!
 
-The twins are quarreling so I’d best go pour oil on troubled waters.
-Os gêmeos estão brigando, então é melhor eu ir colocar panos quentes.
+– It’s hot! – You can say that again.
+– Está quente! – Pode crer.
 
-His ideas caused real dissension within the party at first, but he poured oil on troubled waters in last night’s speech.
-As ideias dele causaram uma verdadeira discórdia na festa a princípio, mas ele colocou panos quentes no discurso de ontem à noite.
+– She’s in a bad mood. – You can say that again.
+– Ela está de mau humor. – Pode crer.
 
-I remember him taking umbrage when he thought I was doubting his grandmother’s skills so quickly poured oil on troubled waters.
-Eu me lembro de ele ficar ofendido quando achou que eu estava duvidando da habilidade de sua avó, então eu rapidamente coloquei panos quentes.
+– This is so boring! – You can say that again!
+– Isso é tão chato! – Pode crer.
 
-He is an extremely experienced politician, who some diplomats believe may be able to pour oil on troubled waters.
-Ele é um político extremamente experiente, o qual alguns diplomatas acreditam que talvez consiga colocar panos quentes.
+Brother, you can say that again!
+Pode crer, irmão.
 
-Friends are a blessing — they pour oil on troubled waters, drag you to parties and make you feel loved.
-Amigos são uma benção — eles colocam panos quentes, arrastam você para festas e fazem você se sentir amado.
+– Wow, that exam was brutally difficult. – You can say that again! It was the hardest test I’ve ever taken.
+– Nossa, essa prova foi brutalmente difícil. – Pode crer! Foi a prova mais difícil que já fiz.
 
-Mama got into some frightful fuss with the staff at the store and Papa’s having to pour oil on troubled waters.
-A mamãe se meteu em uma confusão medonha com os funcionários da loja e o papai está tendo que colocar panos quentes.
+– What a relief that Brian didn’t get hurt. – You can say that again!
+– Que alívio que o Brian não se machucou. – Pode crer!
 
-Mankind needs hope more than ever.
-A humanidade precisa de esperança mais do que nunca.
+– That was a pretty selfish thing for him to do. – You said it.
+– Isso foi uma coisa bem egoísta de ele fazer. – Pode crer.
 
-Sister, I need your wisdom more than ever.
-Irmã, eu preciso da sua sabedoria mais do que nunca.
+– How stupid of me to lend him that money! – You said it!
+– Como foi estúpido da minha parte emprestar aquele dinheiro para ele! – Pode crer.
 
-More than ever, marketers require data to better understand their customers.
-Mais do que nunca, os comerciantes precisam de dados para melhor entender os seus clientes.
+– I’ve made a terrible mess of this. – You said it.
+– Fiz uma confusão terrível disso. – Pode crer.
 
-Your adventure stories make me want to travel more than ever.
-Suas histórias de aventura me fazem querer viajar mais do que nunca.
+– Let’s grab something to eat. – You said it. I’m starving.
+– Vamos pegar algo para comer. – Pode crer, estou morrendo de fome.
 
-After spending the weekend with him, I like him more than ever.
-Depois de passar o fim de semana com ele, eu gosto dele mais do que nunca.
+– This cake is yummy! – You said it!
+– Esse bolo é delicioso! – Pode crer!
 
-We are spending more than ever on education.
-Nós estamos gastando mais do que nunca com educação.
+They decided to get engaged.
+Eles decidiram ficar noivos.
 
-It is obvious that, more than ever, we need a strong European Union.
-É óbvio que, mais do que nunca, nós precisamos de uma União Europeia forte.
+Debbie and Jake have just got engaged.
+A Debbie e o Jake acabaram de ficar noivos.
 
-Don’t let her down! She needs you more than ever.
-Não a decepcione! Ela precisa de você mais do que nunca.
+We got engaged about this time last year.
+Nós ficamos noivos por volta dessa época no ano passado.
 
-Now that I’ve proposed, Simone wants me more than ever.
-Agora que eu a pedi em casamento, a Simone me quer mais do que nunca.
+He asked her to sign a prenuptial agreement when they got engaged.
+Ele pediu para ela assinar um acordo pré-nupcial quando eles ficaram noivos.
 
-I am, more than ever, conscious of my shortcomings.
-Eu estou, mais do que nunca, consciente dos meus defeitos.
+We got engaged on my eighteenth birthday.
+Nós ficamos noivos no meu aniversário de dezoito anos.
 
-Now that she’s with him, I want her more than ever.
-Agora que ela está com ele, eu a quero mais do que nunca.
+Alicia sported a gorgeous diamond ring after getting engaged to Ed.
+A Alicia ostentava um maravilhoso anel de diamantes após ficar noiva do Ed.
 
-I screwed up and now they hate me more than ever.
-Eu estraguei tudo e agora eles me odeiam mais do que nunca.
+She got engaged to her childhood sweetheart as soon as she left school.
+Ela ficou noiva do seu amor de infância assim que saiu da escola.
 
-I really hope that my band will keep on being honest and playing the good music instead of turning into rats running after the rockstar lifestyle.
-Espero de verdade que minha banda continue sendo honesta e tocando a boa música em vez de virar ratos correndo atrás do estilo de vida de estrelas do roque.
+I can’t believe we are engaged! I’m so happy!
+Eu não acredito que estamos noivos! Eu estou tão feliz!
 
-She has spent her life running after fame and fortune.
-Ela passou a vida correndo atrás de fama e fortuna.
+She was engaged to some guy in the army.
+Ela estava noiva de um cara do exército.
 
-They’ve spent years running after that market.
-Eles passaram anos correndo a trás desse mercado.
+How long have you been engaged?
+Há quanto tempo vocês estão noivos?
 
-Run after excellence, and success will follow you.
-Corra atrás da excelência e o sucesso o seguirá.
+She’s engaged to someone she met at work.
+Ela está noiva de alguém que conheceu no trabalho.
 
-In today’s fast-paced world, where everyone is running after success and money, the one thing that often gets looked over is our health.
-No mundo apressado de hoje em dia, onde todos estão correndo atrás de sucesso e dinheiro, a coisa que com frequência passa despercebida é a nossa saúde.          
+You know Kelly’s engaged to Chris, so stop flirting with her!
+Você sabe que a Kelly está noiva do Chris, então pare de flertar com ela!
 
-It’s depressing how many people there are chasing so few jobs.
-É deprimente quantas pessoas há correndo atrás de tão poucos empregos.
+This photo was taken when we were engaged.
+Esta foto foi tirada quando estávamos noivos.
 
-After years of chasing her dreams, she finally got a part in a film.
-Após anos correndo atrás de seus sonhos, ela finalmente conseguiu o papel em um filme.
+Of course she’s oblivious to the growing homeless population in our city — she can’t see beyond the end of her nose.
+É claro que ela está alheia à crescente população sem-teto da nossa cidade ─ ela não vê um palmo à frente do nariz.
 
-She is chasing her fourth championship title.
-Ela está correndo atrás de seu quarto título de campeonato.
+Thomas hasn’t hired an orchestra for the Christmas concert; he just can’t see beyond the end of his nose.
+O Thomas não contratou uma orquestra para o concerto de Natal; ele simplesmente não vê um palmo à frente do nariz.
 
-I don’t want to spend my whole life chasing after material possessions.
-Não quero passar a vida toda correndo atrás de posses materiais.
+When it comes to the environment, sadly, this government can’t see beyond the end of its nose.
+Quando se trata do meio ambiente, infelizmente, esse governo não vê um palmo à frente do nariz.
 
-People who spend their lives always chasing after pleasure have a good chance of attaining it.
-Pessoas que passam suas vidas sempre correndo atrás do prazer têm uma boa chance de o conseguir.
+You’re too busy thinking about you and about everything to do with you that you don’t see beyond the end of your nose.
+Você está tão ocupado pensando em si mesmo e em tudo relacionado a você, que não vê um palmo à frente do nariz.
 
-All I do is pay attention to my body.
-Tudo que eu faço é prestar atenção ao meu corpo.
+He probably thought she was an overprotective, neurotic mother who couldn’t see beyond the end of her nose.
+Ele provavelmente achava que ela era uma mãe superprotetora e neurótica, que não via um palmo à frente do nariz.
 
-I hope you’re paying attention, because you’ll be tested later.
-Eu espero que você esteja prestando atenção, porque você será testado depois.
+He explained his vision for the company and I believe he can’t see beyond the end of his nose.
+Ele explicou a visão dele para a empresa e eu acho que ele não vê um palmo à frente do nariz.
 
-I’m sorry, I wasn’t paying attention to what you were saying.
-Perdão, eu não estava prestando atenção ao que você estava dizendo.
+If I asked her opinion, she likely would declare that you can’t see beyond the end of your nose.
+Se eu perguntasse a opinião dela, ela provavelmente declararia que você não vê um palmo à frente do nariz.
 
-Pay attention, Mark — there will be a quiz on this material at the end of the week!
-Preste atenção, Mark — haverá uma prova baseada neste material no fim da semana!
+“Why didn’t you tell me that she can’t see beyond the end of her nose?” she asked.
+“Por que você não me disse que ela não vê um palmo à frente do nariz?”, ela perguntou.
 
-Pay particular attention to the warnings printed on the label.
-Preste atenção especial aos avisos impressos no rótulo.
+He couldn’t save money or make plans for the future; he just never saw beyond the end of his nose.
+Ele não conseguia economizar dinheiro ou fazer planos para o futuro; ele simplesmente nunca viu um palmo à frente do nariz.
 
-Pay close attention to what she says.
-Preste muita atenção ao que ela diz.
+People who always complain about school taxes would stop it if they could see beyond their noses and understand the importance of first-class schools.
+As pessoas que sempre reclamam dos impostos escolares parariam com isso se conseguissem ver um palmo à frente do nariz e entendessem a importância das escolas de qualidade.
 
-I don’t think she was paying any attention to what I was saying.
-Eu acho que ela não estava prestando atenção nenhuma ao que eu estava dizendo.
+In financial planning, you need to see beyond the end of your nose.
+No planejamento financeiro, você precisa ver um palmo à frente do nariz.
 
-My father never paid attention to the financial burden his gambling was creating until it was too late.
-Meu pai nunca prestou atenção ao ônus financeiro que a sua jogatina estava criando até que fosse tarde demais.
+She was gazing out the window, rocking rhythmically to and fro.
+Ela estava olhando pela janela, balançando-se ritmicamente para cá e para lá.
 
-You need to start paying attention to your kids, or you won’t have a relationship with them when they’re grown up.
-Você precisa começar a prestar atenção aos seus filhos ou não terá um relacionamento com eles quando eles forem adultos.
+Outside my door I could hear people walking to and fro.
+Do lado de fora da porta, eu podia ouvir pessoas andando para cá e para lá.
 
-Max always pays careful attention to what is being told to him.
-O Max sempre presta atenção especial ao que lhe está sendo dito.
+Not only do people move to and fro across international space, their personal relationships change.
+Às pessoas não só se movem para cá e para lá no espaço internacional, mas também seus relacionamentos pessoais mudam.
 
-Organizations in this environment must pay attention to flexibility, quality and asset utilization to remain competitive.
-As organizações neste meio devem prestar atenção à flexibilidade, qualidade e utilização de ativos para permanecerem competitivas.
+She stood up and began to pace to and fro.
+Ela levantou-se e começou a andar de um lado para o outro.
 
-However, the candidate’s response can be very revealing and interviewers should pay attention to it.
-Entretanto, a resposta do candidato pode ser muito reveladora e os entrevistadores devem prestar atenção a ela.
+The boat was rocking gently to and fro in the water.
+O barco estava balançando levemente para cá e para lá na água.
 
-– How are things going? – I can’t complain.
-– Como vão as coisas? – Não dá pra reclamar.
+She rocked the baby to and fro.
+Ela balançava o bebê para cá e para lá.
 
-– How have you been? – I can’t complain.
-– Como você tem estado? – Não dá pra reclamar.
+The ducks were toing and froing.
+Os patos estavam indo de cá para lá.
 
-– How is work? – Well, I make a good living. I can’t complain.
-– Como está o trabalho? – Bem, eu ganho bem. Não dá pra reclamar.
+There is a lot of toing and froing and complex weekend arrangements.
+Há um monte de vaivéns e arranjos complexos de final de semana.
 
-– How are you feeling? – I can’t complain.
-– Como está se sentindo? – Não posso reclamar.
+The wasps are still out there, toing and froing.
+As vespas ainda está lá fora, indo de cá para lá.
 
-– Hi, Fred! How are you doing? – Nothing to complain about.
-– Oi, Fred! Como você está? – Não dá pra reclamar.
+We stood there among the busy to-and-fro of the holiday shoppers.
+Ficamos ali, entre o vaivém atarefado dos compradores de fim de ano. (Note que holiday pode se referir a um feriado qualquer, mas geralmente é usado em relação ao período de “festas” de dezembro.)
 
-– How are things at work? – Nothing to complain about.
-– Como estão as coisas no trabalho? – Nada de que reclamar.
+We are following the to and fro in Britain.
+Estamos seguindo o vaivém na Grã-Bretanha.
 
-She asked me how I was and I answered there was nothing to complain about.
-Ela me perguntou como eu estava e eu respondi que não dava para reclamar.
+The endless to and fro between ministers and fishermen is getting us nowhere.
+O vaivém infindo entre ministros e pescadores não está nos levando a lugar nenhum.
 
-–  How did you sleep? – Oh, not too bad. Mustn’t grumble.
-– Como você dormiu? – Ah, não muito mal. Não devo reclamar. (Note que not too bad é outro eufemismo que geralmente significa, isso sim, “bem” ou “muito bem”.)
+Who? That girl with the glasses and the ponytail?
+Quem? Aquela garota de óculos e rabo de cavalo?
 
-– How’s it going then, Mike? – Oh, not too bad. Mustn’t grumble.
-– E como vão as coisas então, Mike? – Ah, nada de mais. Não dá pra reclamar.
+Will a young man with a ponytail have to cut it off?
+Um rapaz com rabo de cavalo precisará cortá-lo?
 
-– How are you today? – Mustn’t grumble.
-– Como você está hoje? – Não posso reclamar.
+She usually wears her hair pulled back in a ponytail.
+Ela geralmente usa o cabelo puxado para trás em um rabo de cavalo.
 
-Please don’t be hard on Tessa — she’s such a sensitive kid.
-Por favor, não pegue pesado com a Tessa — ela é uma criança tão sensível.
+Simply tie up your hair with a decorative scrunchie and your messy ponytail is instantly elevated.
+Simplesmente amarre o seu cabelo com um elástico decorativo e seu rabo de cavalo bagunçado melhorará instantaneamente.
 
-You mustn’t be hard on him. Take it easy, ok?
-Você não pode pegar pesado com ele. Vá com calma, tá?
+Her long hair was swept back in a ponytail.
+O cabelo comprido dela estava puxado para trás em um rabo de cavalo.
 
-You’re right. Perhaps I’m too hard on her.
-Você tem razão. Talvez eu pegue pesado demais com ela.
+Gloves are a good idea and be sure to tie long hair back into a ponytail.
+Luvas são uma boa ideia, e certifique-se de amarrar cabelos compridos para trás em um rabo de cavalo.
 
-Don’t be hard on the boy. He didn’t mean it.
-Não pegue pesado com o menino. Ele não teve a intenção.
+Who is that girl with pigtails?
+Quem é aquela garota de maria-chiquinha?
 
-I know I didn’t do well on the exam, but I didn’t expect my dad to be so hard on me about it — he grounded me for a month!
-Eu sei que não fui bem na prova, mas eu não esperava que meu pai pegaria tão pesado comigo por causa disso — ele me deixou de castigo por um mês!
+She had straight dark brown hair in pigtails.
+Ela tinha um cabelo castanho-escuro liso (preso) em maria-chiquinha.
 
-Don’t be so rough on them for making a mistake.
-Não pegue tão pesado com eles por terem cometido um erro.
+That’s just some random woman who wears her hair in pigtails the way Michelle used to.
+Aquela é só uma mulher qualquer que prende o cabelo em maria-chiquinha da forma como a Michelle costumava prender.
 
-Aren’t you being a little rough on him? He is only a child.
-Você não está pegando pesado demais com ele? Ele é só uma criança.
+A little girl in pigtails presented the bouquet.
+Uma menininha de maria-chiquinha entregou o buquê.
 
-You know, I kind of expect her to be rough on me. I really screwed up this time.
-Sabe, eu meio que espero que ela pegue pesado comigo. Eu realmente estraguei tudo dessa vez.
+The April issue of the magazine featured a pop star in pigtails.
+A edição de abril da revista apresentava uma estrela do pop de maria-chiquinha.
 
-Why are you being so rough on him? You’re not perfect either.
-Por que você está pegando tão pesado com ele? Você também não é perfeito.
+He currently holds the position of technical manager.
+Ele atualmente ocupa o cargo de gerente técnico.
 
-You’re not rough on him like you should and I think that’s the problem.
-Você não pega pesado com ele como deveria e eu acho que esse é o problema.
+Jeff holds the position of managing editor.
+O Jeff ocupa o cargo de editor-chefe.
 
-Be sure to ring and let us know you’ve got back safely.
-Não deixe de nos ligar e avisar que você voltou bem.
+No one could imagine he would hold the position for 21 years.
+Ninguém poderia imaginar que ele ocuparia o cargo por 21 anos.
 
-Be sure to read all the directions carefully.
-Não deixe de ler todas as instruções com cuidado. (Note que directions se refere especificamente a “instruções de como chegar” a algum lugar.)
+Do you really think he’s capable of holding such a responsible position?
+Você realmente acha que ele é capaz de ocupar um cargo de tamanha responsabilidade?
 
-Be sure to help your mom around the house.
-Não deixe de ajudar sua mãe com as tarefas de casa.
+As chairman of the association, he held office for over 20 years.
+Como presidente da associação, ele ocupou o cargo por mais de 20 anos.
 
-Be sure to fasten your seat belt.
-Não deixe de apertar seu cinto de segurança.
+She was the first woman to hold the office of prime minister.
+Ela foi a primeira mulher a ocupar o cargo de primeira-ministra.
 
-Be sure to pick up a shovel before this weekend’s snow storm.
-Não deixe de comprar uma pá antes da tempestade de neve desse final de semana. (Note que pick up não só significa “pegar”, mas também “comprar”.)
+Whoever is elected will hold office for four years.
+Quem quer que seja eleito ocupará o cargo por quatro anos.
 
-Be sure to double-check that the door is locked.
-Não deixe de se certificar duas vezes de que a porta esteja trancada.
+The Coordinator is appointed for only six months at a time, but now he is to hold office for a year.
+O Coordenador é nomeado para apenas seis meses por vez, mas agora ele ocupará o cargo por um ano.
 
-Be sure to give your family my regards.
-Não deixe de transmitir meus cumprimentos à sua família.
+She’s held the post for 13 years.
+Ela ocupou o cargo por 13 anos.
 
-Be sure to call me tomorrow.
-Não deixe de me ligar amanhã.
+The governor had held the post since 1989.
+O governador havia ocupado o cargo desde 1989.
 
-Be sure to read The Lord of the Rings before you kick the bucket!
-Não deixe de ler O senhor dos anéis antes de bater as botas!
+He will hold the post for three or four months.
+Ele ocupará o cargo por três ou quatro meses.
 
-Be sure to see if she needs any help before you start playing your games.
-Não deixe de ver se ela precisa de ajuda antes de começar a jogar seus jogos.
+In 1947, she was appointed as the Sheriff, first woman to hold the post.
+Em 1947, ela foi designada como xerife, a primeira mulher a ocupar o cargo.
 
-To some degree, we’ll have to compromise.
-Até certo ponto, nós precisaremos ceder.
+He’s been unemployed for over a year.
+Ele está desempregado há mais de um ano.
 
-These statements are, to some degree, all correct.
-Estas declarações estão, até certo ponto, todas corretas.
+Being unemployed entitles you to free medical treatment.
+Estar desempregado lhe dá o direito a tratamento médico gratuito.
 
-To some degree, I think that’s right, but there are other factors which affect the situation.
-Até certo ponto, eu acho que isso está certo, mas há outros fatores que afetam a situação.
+With Dave unemployed, we haven’t got much money coming in at the moment.
+Com o David desempregado, nós não temos muito dinheiro entrando no momento.
 
-Your essay would be improved to some degree by tidying up your paragraphs.
-A sua redação ficaria melhor, até certo ponto, dando uns retoques finais nos parágrafos.
+His financial problems escalated after he became unemployed.
+Os problemas financeiros dele aumentaram depois de ele ficar desempregado.
 
-The administration is willing to negotiate to some degree, but it is not ready to make any significant changes to the legislation.
-A administração está disposta a negociar até certo ponto, mas não está pronta para fazer nenhuma mudança significativa na legislação.
+The gunman in Wednesday’s attack has been identified as Lee Giggs, an unemployed truck driver.
+O atirador do ataque de quarta-feira foi identificado como Lee Giggs, um motorista de caminhão desempregado.
 
-To a certain extent, he’s right.
-Até certo ponto, ele está certo.
+The government publishes figures every six months showing how many people are unemployed.
+O governo divulga dados a cada seis meses mostrando quantas pessoas estão desempregadas.
 
-If the composition of the family changes, the house can be adjusted, and to a certain extent enlarged.
-Se a composição da família mudar, a casa pode ser ajustada e, até certo ponto, ampliada.
+Have you been unemployed for over six months?
+Você está desempregado há mais de seis meses?
 
-To a certain extent, this was anticipated before the study was undertaken.
-Até certo ponto, isso foi previsto antes de o estudo ser realizado.
+My father was out of work at the time, so we struggled, obviously.
+Meu pai estava desempregado na época, então nós passamos dificuldade, obviamente.
 
-Even I believe that it is true to a certain extent.
-Até eu acredito que é verdade, até certo ponto.
+I’ve been out of work for the past ten months.
+Eu estou desempregado há dez meses.
 
-We are all to a certain extent affected by our surroundings.
-Nós todos somos, até certo ponto, afetados por nosso ambiente.
+The plant closed in November 2010, leaving 400 people out of work.
+A fábrica fechou em novembro de 2010, deixando 400 pessoas desempregadas.
 
-“Was she good?” “Mmm… Up to a point.”
-“Ela foi boa?” “Hum… Até certo ponto.”
+Joe was out of work for nearly eight months after the financial crisis.
+O Joe ficou desempregado por quase oito meses depois da crise econômica.
 
-Of course there is some truth in all this, but only up to a point.
-É claro que há alguma verdade em tudo isso, mas somente até certo ponto.
+You’ll be out of work if you ever pull a stunt like that again, do you understand?
+Você ficará desempregado se você fizer uma coisa dessas de novo, você entendeu?
 
-The new traffic system worked up to a point, but it had its problems.
-O novo sistema de tráfego funcionou até certo ponto, mas teve seus problemas.
+Whether a person is between jobs or wants to change career, volunteering can be one way of seeing what’s available.
+Quer a pessoa esteja desempregada, quer deseje mudar de carreira, fazer serviço voluntário pode ser uma forma de ver o que está disponível.
 
-I understand his feelings up to a point.
-Eu entendo os sentimentos dele até certo ponto.
+Just tell the recruiter that you’re between jobs. She doesn’t need to know that you got fired!
+Só diga à recrutadora que você está desempregado. Ela não precisa saber que você foi demitido!
 
-Competition is good but only up to a point.
-Competição é bom, mas apenas até certo ponto.
+“Tell me about your current position.” “I’m between jobs right now.”
+“Conte-me sobre o seu cargo atual.” “Eu estou desempregado no momento.”
 
-My mind went blank when I heard the question.
-Me deu um branco quando ouvi a pergunta.
+When Jill was between jobs, she took a computer class at the community college.
+Quando a Jill estava desempregada, fez um curso de informática na faculdade comunitária.
 
-When he asked me her name, my mind just went blank.
-Quando ele me perguntou qual o nome dela, minha mente simplesmente deu branco.
+Come here right now and say you’re sorry!
+Venha aqui agora mesmo e peça desculpas!
 
-My heart began to race and my mind went blank.
-Meu coração começou a disparar e me deu um branco.
+The next morning she came into my room and said she was sorry.
+Na manhã seguinte, ela veio ao meu quarto e pediu desculpas.
 
-My mind went totally blank.
-Me deu um branco total.
+I’ve said I’m sorry a thousand times. What else can I do?
+Eu já pedi desculpas mil vezes. O que mais posso fazer?
 
-I tried to remember her name, but my mind was a complete blank.
-Tentei me lembrar do nome dela, mas minha mente estava totalmente em branco.
+He said he was sorry he had upset me.
+Ele pediu desculpas por ter me chateado.
 
-Can you remind me of your name? I’m so sorry, but I’ve gone completely blank right now!
-Você pode me lembrar do seu nome? Sinto muito, mas me deu um branco total nesse momento!
+“Then say you’re sorry,” I requested, unfolding my arms.
+“Então peça desculpas”, eu pedi, descruzando os braços.
 
-I just went blank and couldn’t remember his name for a minute.
-Simplesmente me deu um branco e eu não consegui me lembrar do nome dele por um minuto.
+Apologize to significa “pedir desculpas para” ou “pedir desculpas a” e é seguido pela pessoa que receberá o pedido de perdão;
+Apologize for significa “pedir desculpas por” ou “pedir desculpas pelo(a)” e é seguido pelo motivo de tal pedido.
 
-I don’t know what happened – I just blanked out.
-Não sei o que aconteceu – me deu um branco.
+If I offended you, I apologize.
+Se eu te ofendi, peço desculpas.
 
-I totally blanked when it came to the written part of the exam.
-Me deu um branco total quando cheguei à parte escrita da prova.
+There’s no need to apologize.
+Não é preciso pedir desculpas.
 
-I was about to say something important, but I blanked out!
-Eu estava a ponto de dizer algo importante, mas me deu branco!
+I tried to apologize, but he refused to listen.
+Eu tentei pedir desculpas, mas ele se recusou a escutar.
 
-I blank out every time I try to remember his name.
-Me dá um branco toda vez que tento lembrar o nome dele.
+Imagine the humiliation of having to apologize.
+Imagine a humilhação de ter que pedir desculpas.
 
-Several publishers rejected her book, but that just made her all the more determined.
-Vários editores rejeitaram o livro dela, mas isso só a tornou ainda mais determinada.
+The allegations were false and the newspaper apologized unreservedly.
+As alegações eram falsas e o jornal pediu desculpas abertamente.
 
-The fact that they’d written the play themselves made it all the more impressive.
-O fato de eles próprios terem escrito a peça tornou tudo ainda mais impressionante.
+I must apologize to Isabel for my lateness.
+Eu preciso pedir desculpas para a Isabel pelo meu atraso.
 
-The living room is decorated in light colours that make it all the more airy.
-A sala de estar é decorada com cores claras que a tornam ainda mais arejada.
+He apologized to the people who had been affected.
+Ele pediu desculpas às pessoas que foram afetadas.
 
-His progress as a boxer is all the more remarkable when taking into account his unique circumstances.
-O progresso dele como boxeador é ainda mais notável quando se leva em conta as suas circunstâncias únicas.
+I would like to apologize to everybody.
+Eu gostaria de pedir desculpas a todos.
 
-You might think that my husband’s rudeness to me would turn me off, actually, it just makes me love him all the more.
-Você talvez pense que a grosseria do meu marido para comigo me repeliria, na verdade, ela só me faz amá-lo ainda mais.
+He apologized for his mistake.
+Ele pediu desculpas por seu erro.
 
-They are all the more deserving of our attention.
-Eles são ainda mais merecedores da nossa atenção.
+She apologized for her husband’s rudeness.
+Ela pediu desculpas pela grosseria do seu marido.
 
-Any devaluation of the pound would make it even more difficult to keep inflation low.
-Qualquer desvalorização da libra tornaria ainda mais difícil manter a inflação baixa.
+I apologize for taking so long to reply.
+Eu peço desculpas por levar tanto tempo para responder.
 
-The town’s even more prosperous than Nagahama.
-A cidade é ainda mais próspera do que Nagahama.
+She apologized profusely for having to leave at 3.30 p.m.
+Ela pediu desculpas profusamente por ter que ir embora às 15:30.
 
-I can offer you something even more powerful than money.
-Eu posso lhe oferecer algo ainda mais poderoso do que dinheiro.
+Trains may be subject to delay – we apologize for any inconvenience caused.
+Os trens podem estar sujeitos a atrasos – nós pedimos desculpas por qualquer inconveniência causada.
 
-I think you should get her something even more romantic than that.
-Eu acho que você deveria comprar para ela algo ainda mais romântico do que isso.
+She apologized to us for losing her temper.
+Ela pediu desculpas para nós por ter perdido a calma. (Lose one’s temper também pode ser traduzido como Chutar o Balde)
 
-But that’s too hard, especially for you Americans. No offense.
-Mas isso é difícil demais, ainda mais para vocês, americanos. Sem ofensas.
+You should apologize to your customers for your behavior.
+Você deveria pedir desculpas aos seus clientes pelo seu comportamento.
 
-I find this outrageous, especially coming from you.
-Eu acho isso ultrajante, ainda mais vindo de você.
+He’ll inherit his grandma’s car if she ever dies and that thing is a junker.
+Ele herdará o carro da sua avó se ela morrer algum dia e aquilo é uma lata velha.
 
-He won’t try anything funny, especially here.
-Ele não tentará nenhuma gracinha, ainda mais aqui.
+I’ve been driving this old junker around for so long because I just can’t part with it!
+Eu dirijo essa lata velha há muito tempo porque não consigo me desfazer dela!
 
-You’re risking a lot to do this, especially after what happened this morning.
-Você está arriscando muito ao fazer isso, ainda mais depois do que aconteceu nesta manhã.
+She has made a business out of buying junkers for cheap, fixing them up, and selling them off for a big profit.
+Ela criou um negócio de comprar latas velhas por pouco dinheiro, consertá-las e vendê-las com muito lucro.
 
-Drinks will be served from seven o’clock.
-As bebidas serão servidas a partir das sete horas.
+The Beverly Hills cops drive pristine cars; he drives an old, dilapidated junker.
+Os policiais de Beverly Hills dirigem carros impecáveis; ele dirige uma lata velha decadente.
 
-I lived with him from the age of twenty.
-Eu morei com ele a partir dos vinte anos.
+The choices you make now will help determine whether you end up owning a muscle car or a rusted-out old junker.
+As escolhas que você faz agora ajudarão a determinar se você acabará tendo um muscle car ou uma lata velha enferrujada.
 
-Breakfast is available to fishermen from 6 a.m.
-O café da manhã está disponível aos pescadores a partir das 6 da manhã.
+My first car was an old clunker that kept breaking down.
+O meu primeiro carro era uma lata velha que vivia quebrando.
 
-From tomorrow every expense form that you submit must first be signed by Roger.
-A partir de amanhã, todo formulário de despesas que você apresentar deverá primeiro ser assinado pelo Roger.
+I think it’s time for me to get a new car — this one has turned out to be a real clunker.
+Eu acho que está na hora de eu comprar um carro novo ─ esse aqui se mostrou ser uma lata velha.
 
-As of next month, all the prices will go up.
-A partir do mês que vem, todos os preços subirão.
+He drives an old clunker and doesn’t have any insurance.
+Ele dirige uma lata velha e não tem nenhum seguro.
 
-We won’t be living here anymore as of tomorrow.
-Nós não moraremos mais aqui a partir de amanhã.
+I had to drive my mom’s clunker for a few weeks.
+Eu tive que dirigir a lata velha da minha mãe por algumas semanas.
 
-As of next Friday, all the airline’s fares will be going up.
-A partir da próxima sexta-feira, o preço de todas as passagens da companhia aérea subirá.
+He worked long hours to keep his gas-guzzling clunker on the road.
+Ele trabalhava muitas horas para manter a sua lata velha beberrona na estrada.
 
-As of this year, women hold 51.4 percent of all managerial positions.
-A partir deste ano, as mulheres mantêm 51,4 por cento de todos os cargos administrativos.
+I can’t sell this old bucket of bolts!
+Eu não consigo vender essa lata velha!
 
-As of 6th April 1999, all gifts to charities will be free of tax.
-A partir de 6 de abril de 1999, todas as doações para instituições de caridade terão isenção fiscal.
+My old bucket of bolts wouldn’t start this morning.
+Minha lata velha não queria pegar essa manhã.
 
-The new law takes effect as from July 1.
-A nova lei entra em vigor a partir de 1 de julho.
+I don’t want that bucket of bolts. I want a used car that is in good shape.
+Eu não quero aquela lata velha. Eu quero um carro que esteja funcionando bem.
 
-As from today, the bank will be open for business from 9.30 am.
-A partir de hoje, o banco será aberto ao público a partir das 9:30 da manhã.
+Elliott accused me of being selfish. Talk about the pot calling the kettle black!
+Elliott me acusou de ser egoísta. Isso sim é que é o roto falando do esfarrapado.
 
-As from this weekend, we’ll be away for a few weeks.
-A partir deste fim de semana, nós ficaremos fora por algumas semanas.
+Sean called me a liar – that’s the pot calling the kettle black!
+Sean me chamou de mentiroso – isso é o roto falando do esfarrapado!
 
-As from next Monday, she’ll have a new secretary.
-A partir da próxima segunda-feira, ela terá uma nova secretária.
+To be fair, my own criticism is an example of the pot calling the kettle black.
+Para ser justo, a minha própria crítica é um exemplo do roto falando do esfarrapado.
 
-The car rolled and landed upside down.
-O carro rolou e caiu de ponta-cabeça.
+At this point I was sitting in my chair thinking, man, this guy’s really the pot calling the kettle black, isn’t he?
+Nesta altura, eu estava sentado na minha cadeira pensando: “Gente, esse cara realmente é o roto falando do esfarrapado, não é?”
 
-The bar staff put the chairs upside down on the tables.
-O pessoal do bar colocou as cadeiras de ponta-cabeça nas mesas.
+This was a classic case of the pot calling the kettle black.
+Era um caso clássico do roto falando do esfarrapado.
 
-The counters were sparkling, the chairs were all upside-down on the tables, and the floor was swept.
-Os balcões estavam brilhando, as cadeiras estavam todas de ponta-cabeça nas mesas e o chão estava varrido.
+She said my brother never wanted to help, which was exactly like the pot calling the kettle black.
+Ela disse que o meu irmão nunca queria ajudar, o que era exatamente como o roto falando do esfarrapado.
 
-I left the book, open at page 3, upside-down on the side of the bath.
-Eu deixei o livro, aberto na página 3, de ponta-cabeça ao lado da banheira. (Note que bath pode tanto significar “banho” quanto “banheira”. A palavra mais comum para “banheira” é bathtub, mas quando fica claro pelo contexto que você está se referindo a uma banheira, pode usar só bath.)
+Forgive me for mentioning it, but isn’t it a case of the pot calling the kettle black?
+Perdoe-me por mencionar isso, mas não é um caso do roto falando do esfarrapado?
 
-Turn the jar upside down and shake it.
-Vire o pote de cabeça para baixo e o agite.
+It was a bit like the pot calling the kettle black.
+Era um pouco como o roto falando do esfarrapado.
 
-The plane was flying upside down at high speed.
-O avião estava voando de cabeça para baixo a uma alta velocidade.
+You think I’m lazy? That’s like the pot calling the kettle black.
+Você acha que eu sou preguiçoso? Isso é como o roto falando do esfarrapado.
 
-Turn the mould upside down and give it a gentle tap.
-Vire a forma de ponta-cabeça e dê uma batida de leve.
+It’s very easy to say that, but in your case it’s like the pot calling the kettle black.
+É muito fácil dizer isto, mas no seu caso é como o roto falando do esfarrapado.
 
-It was an abstract painting and I couldn’t tell whether it was upside down or not.
-Era uma pintura abstrata e eu não conseguia saber se estava de ponta-cabeça ou não.
+The political party have just elected a new leader.
+O partido político acabou de eleger um novo líder.
 
-The painting was hung upside down.
-A pintura estava pendurada de cabeça para baixo.
+There are signs of dissension within the ruling political party.
+Há sinais de dissensão dentro do partido político no poder.
 
-His eyes were open and everything he saw was upside down.
-Os olhos dele estavam abertos e tudo o que ele via estava de ponta-cabeça.
+A publicly disunited political party stands little chance of winning the election.
+Um partido político publicamente desunido tem pouca chance de ganhar a eleição.
 
-The car landed upside down in a ditch.
-O carro caiu de cabeça para baixo em uma vala.
+The political party that was elected to power has no experience of government.
+O partido político que foi eleito ao poder não tem experiência de governo.
 
-Thieves have turned our house upside down.
-Ladrões deixaram a nossa casa de cabeça para baixo.
+There are two political parties in the US – the Democratic Party and the Republican Party.
+Existem dois partidos políticos nos EUA – o Partido Democrata e o Partido Republicano.
 
-The basis of the past policy behind economic diplomacy is now turned upside down.
-A base da antiga política que sustentava a diplomacia econômica está de ponta-cabeça agora.
+The committee’s job is to ensure fair play between all the political parties and candidates during the election.
+A função do comitê é garantir um jogo limpo entre todos os partidos políticos e candidatos durante a eleição.
 
-Things have turned upside down in a matter of weeks thanks to the virus.
-As coisas ficaram de ponta-cabeça em questão de semanas graças ao vírus.
+The 20th century saw the spread of political parties throughout the entire world.
+O século 20 viu a propagação de partidos políticos no mundo inteiro.
 
-If anything happens to her, I’ll hold you personally responsible.
-Se algo acontecer com ela, vou responsabilizar você pessoalmente.
+Many political parties in developing countries are partly political, partly military.
+Muitos partidos políticos de países em desenvolvimento são em parte políticos, em parte militares.
 
-He may have had a terrible childhood, but he should still be held accountable for his own actions.
-Ele pode ter tido uma infância terrível, mas ainda assim deve ser responsabilizado por suas próprias ações.
+Most political parties have an ideological core.
+A maioria dos partidos políticos possuem um núcleo ideológico.
 
-I hold the police responsible for what happened that day.
-Eu responsabilizo a polícia pelo que aconteceu aquele dia.
+All other political parties there have been completely banned.
+Todos os outros partidos políticos lá foram totalmente banidos.
 
-He held me personally responsible whenever anything went wrong in the project.
-Ele me responsabilizava pessoalmente sempre que algo dava errado no projeto.
+Many countries have several significant political parties but some nations have one-party systems, such as China and Cuba.
+Muitos países têm vários partidos políticos importantes, mas algumas nações têm sistemas de partido único, como a China e Cuba.
 
-If the plan fails I will hold you responsible.
-Se o plano falhar, vou ter você como responsável.
+He opened the book at random.
+Ele abriu o livro ao acaso.
 
-He holds me responsible for the project’s failure.
-Ele me tem como responsável pelo fracasso do projeto.
+We received several answers, and we picked one at random.
+Recebemos várias respostas e escolhemos uma ao acaso.
 
-I don’t care if Vince is trying to blame this blunder on his staff — I hold him responsible.
-Eu não estou nem aí se o Vince está tentando culpar este erro no seu pessoal – eu o responsabilizo.
+Three people were killed by shots fired at random from a minibus.
+Três pessoas foram mortas por tiros disparados ao acaso de um micro-ônibus.
 
-Who do we hold responsible for this blunder?
-Quem devemos responsabilizar por este erro?
+They picked names out of the telephone book at random.
+Eles escolheram nomes de uma agenda telefônica ao acaso.
 
-I hold you accountable for John’s well-being.
-Eu a responsabilizo pelo bem-estar do John.
+The winning entry will be the first correct answer drawn at random.
+A entrada vitoriosa será a primeira resposta correta tirada ao acaso.
 
-He holds me responsible for his missing money.
-Ele me responsabiliza pelo dinheiro dele que sumiu.
+By way of comparison, I went to the book shelf and picked out three Ian Fleming books at random.
+Para comparar, andei até a prateleira e tirei três livros de Ian Fleming ao acaso.
 
-Managers should take more responsibility for their actions.
-Os gerentes deveriam assumir mais responsabilidade por suas ações.
+Study participants were selected at random.
+Os participantes do estudo foram selecionados ao acaso.
 
-We all need to take responsibility for that.
-Todos precisamos assumir responsabilidade por isto.
+We wandered aimlessly around Venice.
+Vagamos sem rumo por Veneza.
 
-The biggest boy took the responsibility of answering for us all.
-O garoto mais velho assumiu a responsabilidade de responder por todos nós.
+While she waited, she walked aimlessly around the car park.
+Enquanto esperava, ela caminhava sem rumo ao redor do estacionamento.
 
-Since it was my idea to throw the ball, I took responsibility for the broken window.
-Dado que jogar a bola tinha sido minha ideia, eu assumi a responsabilidade pela janela quebrada.
+She drove aimlessly for hours.
+Ela dirigiu sem rumo por horas.
 
-You have to take responsibility for your life.
-Você precisa assumir responsabilidade por sua vida.
+I’m going out tonight to get drunk.
+Eu vou sair hoje à noite e ficar bêbado.
 
-– So you’re going to bring Kev, are you? – Not on your life!
-– Então você vai trazer o Kev, é? – De jeito nenhum!
+I got completely drunk at my sister’s wedding.
+Eu fiquei completamente bêbado no casamento da minha irmã.
 
-– “I want to see Clare alone.” – “Not on your life“, he replied.
-– “Quero ver Clare a sós.” – “De jeito nenhum”, ele respondeu.
+They’re not here to party and get drunk.
+Eles não estão aqui para festejarem e ficarem bêbados.
 
-Lend him $50? Not on your life.
-Emprestar $50 para ele? Nem pensar.
+If you want to forget about her, just get drunk.
+Se você quiser esquecê-la, simplesmente fique bêbado.
 
-– Are you going to go and work for him then? – Not on your life!
-– Você vai ir trabalhar para ele, então? – De jeito nenhum!
+Here’s 20 bucks. Take this in case I get drunk and need a cab later.
+Aqui estão 20 pratas. Pegue, para o caso de eu ficar bêbado e precisar de um táxi mais tarde.
 
-She wanted to change everything, but I told her not on your life, this room is mine.
-Ela queria mudar tudo, mas eu disse para ela que de jeito nenhum, essa sala é minha.
+Tonight, I want to go out and just get wasted.
+Hoje à noite, eu quero sair e simplesmente ficar bêbado.
 
-– Are you going to tell him? – Not on your life.
-– Você vai contar para ele? – De jeito nenhum.
+I cannot wait until I’m old enough to get wasted.
+Eu mal posso esperar até ter idade suficiente para ficar bêbado.
 
-– You should have given him a lift. – In that condition? Not on your life!
-– Você deveria ter dado uma carona para ele. – Naquela condição? De jeito nenhum.
+He got too wasted and couldn’t drive.
+Ele ficou bêbado demais e não conseguiu dirigir.
 
-Do the government’s policies really help the average worker? Not on your life.
-Será que as políticas do governo realmente ajudam o trabalhador mediano? De jeito nenhum.
+Paula got completely wasted after only one drink.
+A Paula ficou completamente bêbada depois de apenas uma bebida.
 
-Go out and miss the football match on TV? Not on your life!
-Sair e perder o jogo de futebol na TV? Nem pensar!
+It’s not a good idea to get hammered at brunch.
+Não é uma boa ideia ficar bêbado no brunch.
 
-– Hey, Johnny, come over and help me paint the house this afternoon. – Not on your life, Davey! I’ve got plans tonight and have no intention of getting dirtied up before then!
-– Ei, Johnny, venha para cá e me ajude a pintar a casa essa tarde. – Sem pensar, Davey! Tenho planos para hoje à noite e não tenho intenção de me sujar antes disso!
+Man, old Fred got really hammered last night.
+Cara, o velho Fred ficou muito bêbado ontem à noite.
 
-His contribution did not go unnoticed.
-A contribuição dele não passou despercebida.
+I’d rather just hang out at home and get hammered while I watch the game.
+Eu preferiria simplesmente ficar em casa e ficar bêbado enquanto assisto ao jogo.
 
-She saw flaws that normally would have gone unnoticed.
-Ela viu falhas que normalmente teriam passado despercebidas.
+I’m only going to have a beer or two — I don’t want to get plastered.
+Eu só vou tomar uma ou duas cervejas ─ eu não quero ficar bêbado.
 
-The results indicated that a significant percentage of the errors went unnoticed.
-Os resultados indicaram que uma porcentagem significativa dos erros passou despercebida.
+We got so plastered we had to leave the bar.
+Nós ficamos tão bêbados que tivemos que ir embora do bar.
 
-He hoped that his nervousness would go unnoticed.
-Ele esperava que o seu nervosismo passasse despercebido.
+My plan is to deal with this situation by getting plastered.
+O meu plano é lidar com essa situação ficando bêbado.
 
-It was dark and their entry into camp had gone unnoticed.
-Estava escuro e a entrada deles no acampamento havia passado despercebida.
+I’ve never seen my dad get plastered. He says he hates getting out of control because of alcohol.
+Eu nunca vi o meu pai ficar bêbado. Ele diz que odeia sair do controle por causa do álcool.
 
-Feeding soldiers is not a glamorous business, for the most part, it is an administrative function that goes unnoticed.
-Alimentar soldados não é um negócio glamoroso, em grande parte, é uma função administrativa que passa despercebida.
+He got stoned at the party.
+Ele ficou bêbado na festa.
 
-The success of the tests had not gone unnoticed at the Air Ministry.
-O sucesso dos testes não havia passado despercebido no Ministério do Ar.
+They got stoned and knocked this guy out.
+Eles ficaram bêbados e nocautearam esse cara.
 
-Underscoring this notion is the fact that other diseases continue to go unnoticed under the very nose of modern medicine.
-Ressaltando esta noção está o fato de que outras doenças continuam a passar despercebidas bem debaixo do nariz da medicina moderna.
+Once I got stoned and stared into a mirror for two hours… until I saw someone who looked Chinese.
+Uma vez, eu fiquei bêbado e encarei o espelho por duas horas… até que eu vi alguém que parecia chinês.
 
-I hope her work to protect stray dogs doesn’t go unnoticed.
-Eu espero que o trabalho dela de proteger cachorros de rua não passe despercebido.
+The driver seemed to be really stepping on it as the bus gained speed very fast.
+O motorista parecia estar realmente pisando na tábua, já que o ônibus ganhou velocidade muito rápido.
 
-If his sudden wealth had gone unnoticed, he wouldn’t have been caught.
-Se a sua riqueza repentina tivesse passado despercebida, ele não teria sido pego.
+If we are to get there in time, you better step on it!
+Se queremos chegar lá a tempo, é melhor pisar na tábua!
 
-The disease often has no symptoms and can go unnoticed.
-A doença muitas vezes não tem sintomas e pode passar despercebida.
+Could you step on it? I’m late.
+Você pode pisar na tábua? Estou atrasado.
 
-The attacks have not gone unnoticed in Brussels.
-Os ataques não passaram despercebidos em Bruxelas.
+Take me to the airport, and step on it!
+Leve-me para o aeroporto e pise na tábua!
 
-A lot of work he does goes unnoticed.
-Muitos serviços que ele faz passam despercebidos.
+We’ll need to step on it if we’re going to get to the movie on time.
+Vamos precisar pisar na tábua se quisermos pegar o filme a tempo.
 
-If the defect goes unnoticed beyond 18 months, pressure on the brain can cause permanent damage.
-Se a deficiência passa despercebida por mais de 18 meses, a pressão no cérebro pode causar danos permanentes.
+Step on it or we are going to be late.
+Pise na tábua ou então vamos nos atrasar.
 
-This woman is innocent – end of story.
-Esta mulher é inocente – fim de papo.
+You’ll be late if you don’t step on it.
+Você vai se atrasar se não pisar na tábua.
 
-I’m not going – end of story.
-Eu não vou – fim de papo.
+We’re late. Come on! Step on it!
+Estamos atrasados. Vamos lá! Pé na tábua!
 
-I’m not going to lend you any more money, end of story.
-Eu não te emprestarei mais dinheiro algum, fim de papo.
+We’ve only got thirty-five minutes so step on it.
+Só temos trinta e cinco minutos, então pé na tábua.
 
-I didn’t do anything wrong here, OK? End of story.
-Eu não fiz nada de errado aqui, está bem? Fim de papo.
+If he didn’t drive faster, we were going to be late, so I told him to step on it.
+Se ele não dirigisse mais rápido, íamos nos atrasar, então eu disse a ele para pisar na tábua.
 
-Don’t try to defend him. He’s just a snitch, end of story.
-Não tente defendê-lo. Ele é simplesmente um dedo-duro, fim de papo.
+Step on the gas, they’re getting away!
+Pé na tábua, eles estão escapando!
 
-I did it because I wanted to. End of story.
-Eu fiz isso porque quis. Fim de papo.
+Step on the gas, will you? We’re going to be late!
+Pise na tábua, pode ser? Vamos nos atrasar!
 
-The Beatles were the best band in history. End of discussion.
-Os Beatles foram a melhor banda da história. Fim de papo.
+If you don’t step on the gas a bit, we’re going to keep getting passed.
+Se você não pisar na tábua um pouco, vamos continuar sendo ultrapassados.
 
-Drop it, Marcus. End of discussion.
-Desista, Marcus. Fim de papo.
+Let’s step on it, or else we’ll never get there in time.
+Vamos pisar na tábua, se não nunca vamos chegar lá a tempo.
 
-He yelled at me, and I left. End of discussion.
-Ele gritou comigo e eu fui embora. Fim de papo.
+We need to step on the gas in the second half to keep up with them.
+Precisamos pisar na tábua no segundo tempo para não ficar para trás deles. (Como você pode ver aqui, keep up significa “acompanhar”, mas também pode ser traduzido de forma negativa, como acima: “não ficar para trás”.)
 
-Look, I already told you I can’t give you a job here. End of discussion.
-Olha, eu já te disse que não posso te dar um trabalho aqui. Fim de papo.
+I think it’s time to step on the gas with this initiative and really scale it up.
+Está na hora de pisar na tábua com essa iniciativa e expandi-la de verdade.
 
-You’re not going out tonight – end of!
-Você não vai sair hoje à noite – fim de papo!
+On impulse, Bob decided to buy a car.
+Por impulso, o Bob decidiu comprar um carro.
 
-It’s your turn to do the dishes, end of.
-É a sua vez de lavar a louça, fim de papo.
+I didn’t need a cell phone. I just bought it on impulse.
+Eu não precisava de um celular. Eu simplesmente o comprei por impulso.
 
-Friends is the best TV series ever, end of.
-Friends é a melhor série de TV de todas, fim de papo.
+I bought this expensive sweater on impulse.
+Eu comprei esse suéter caro por impulso.
 
-The countdown to the rocket launch will begin at 9.00 a.m.
-A contagem regressiva para o lançamento do foguete começará às 9 da manhã.
+“I didn’t know you were looking for some new shoes.” “Oh, I wasn’t — I just bought them on impulse.”
+“Eu não sabia que você estava procurando sapatos novos.” “Ah, eu não estava – eu apenas os comprei por impulso.”
 
-The countdown has begun for the launch of the space shuttle.
-A contagem regressiva começou para o lançamento do ônibus espacial.
+I understand that you’re dissatisfied with your job, but don’t just quit it on impulse — sleep on it for a few days.
+Eu compreendo que você esteja insatisfeito com o seu emprego, mas não peça demissão por impulso ─ pense bem no assunto por alguns dias.
 
-There were three more things to do before countdown.
-Havia mais três coisas para se fazer antes da contagem regressiva.
+I had always wanted a classic muscle car, so after getting the payout from my insurers I decided to buy one on impulse.
+Eu sempre quis ter um muscle car clássico, então, após receber o pagamento da minha seguradora, eu decidi comprar um por impulso.
 
-At the end of the countdown, everyone shouted, “Happy New Year!”
-Ao final da contagem regressiva, todos gritaram: “feliz Ano Novo!”
+We booked the trip on a whim.
+Nós reservamos a viagem por impulso.
 
-He greeted the crowd, gave a few tips and instructions, then led us in a countdown from ten to one.
-Ele saudou a multidão, deu algumas dicas e instruções, depois nos liderou em uma contagem regressiva de dez a um.
+He quit his job on a whim.
+Ele pediu demissão do emprego por impulso.
 
-The countdown for the shuttle launch has already begun.
-A contagem regressiva para o lançamento da nave já começou.
+On a whim, we drove to the beach for the weekend.
+Por impulso, nós dirigimos até a praia para passar o fim de semana.
 
-Both countdowns would proceed in parallel and required synchronization.
-Ambas as contagens regressivas ocorreriam paralelamente e precisariam de sincronização.
+Major governmental policies cannot be decided on a whim; they have to be carefully and rationally thought through.
+Grandes políticas governamentais não podem ser decididas por impulso; elas precisam ser cuidadosamente e racionalmente ponderadas.
 
-The countdown to the election has already begun.
-A contagem regressiva para a eleição já começou.
+We decided, more or less on a whim, to sail to Morocco.
+Nós decidimos, mais ou menos por impulso, velejar ao Marrocos.
 
-All eyes are on the skies this year for the countdown to July 20, 2019, which marks a half-century since Neil Armstrong landed on the moon.
-Toda a atenção está nos céus este ano para a contagem regressiva até 20 de julho de 2019, que marca meio século desde que Neil Armstrong pousou na Lua.
+You can’t get married on a whim!
+Você não pode se casar por impulso!
 
-Depending on the type of vehicle used, countdowns can start from 72 to 96 hours before launch time.
-Dependendo do tipo de veículo usado, as contagens regressivas podem começar de 72 a 96 horas antes da hora do lançamento.
+Profits this year will not meet expectations because of a slowdown in the worldwide economic recovery.
+O retorno este ano não atenderá às expectativas devido à desaceleração na recuperação econômica mundial.
 
-Would you like a glass of water?
-Você quer um copo de água?
+Why do projects fail regularly to meet expectations?
+Por que projetos regularmente deixam de atender às expectativas? (Note fail to, “deixar de”.)
 
-She poured herself a glass of water.
-Ela se serviu de um copo de água.
+He did not meet the expectations of his family.
+Ele não atendeu às expectativas da sua família.
 
-Could I have a glass of water, please?
-Poderia me dar um copo de água, por favor?
+We’d heard so many good things about the new restaurant, but the food didn’t meet our expectations at all.
+Havíamos ouvido tantas coisas boas sobre o novo restaurante, mas a comida não atendeu às nossas expectativas nem um pouco.
 
-I’d just like a glass of water, please.
-Eu só quero um copo de água, por favor.
+I’m so excited for the latest movie in the series — I hope it meets my expectations!
+Estou tão empolgado para o último filme da série – espero que atenda às minhas expectativas!
 
-I desperately need a glass of water.
-Eu preciso desesperadamente de um copo de água.
+The company failed to match our expectations.
+A economia não correspondeu às nossas expectativas.
 
-Faith is like a glass of water ─ When you’re young, the glass is little, so it’s easy to fill. As you get older, the glass gets bigger.
-A fé é como um copo de água ─ quando você é jovem, o copo é pequeno, então é fácil de encher. Conforme você fica mais velho, o copo fica maior.
+They’ve placed their hopes on him, but he’s afraid of not being able to meet their expectations.
+Eles depositaram suas esperanças nele, mas ele está com medo de não conseguir atender às expectativas deles.
 
-He asked for a drink of water.
-Ele pediu um copo de água.
+Their trip more than lived up to their expectations.
+A viagem deles mais do que esteve à altura das expectativas.
 
-Does anyone want a drink of water?
-Alguém quer um copo de água?
+Does the hotel live up to your expectations?
+O hotel está à altura das suas expectativas?
 
-He turned around and went back for a drink of water.
-Ele se virou e voltou para beber um copo de água.
+The movie failed to live up to my expectations.
+O filme não ficou à altura das minhas expectativas.
 
-You came a long way for a drink of water.
-Você veio de longe por um copo de água.
+He’s got a headache and a slight fever.
+Ele está com dor de cabeça e um pouco de febre.
 
-He came in for a drink of water and we began to talk.
-Ele entrou para beber um copo de água e nós começamos a conversar.
+It’s an extremely effective cure for a headache.
+É uma cura extremamente eficaz para a dor de cabeça.
 
-The water glass should be the largest one you have.
-O copo de água deve ser o maior que você tiver.
+She didn’t want to go out, so she faked a headache.
+Ela não queria sair, então fingiu uma dor de cabeça.
 
-As soon as dinner was finished, the hostess tapped her water glass for attention.
-Assim que o jantar acabou, a anfitriã bateu em seu copo de água para chamar a atenção.
+I tried taking tablets for the headache but they didn’t have any effect.
+Eu tentei tomar comprimidos para a dor de cabeça, mas eles não fizeram efeito algum.
 
-The wine glass goes slightly to the right of the water glass, whether you will be serving red or white wine.
-A taça de vinho vai levemente à direita do copo de água, quer você vá servir vinho tinto, quer branco.
+I had a terrible headache, but even so I went to the concert.
+Eu estava com uma dor de cabeça terrível, mas, mesmo assim, fui ao concerto.
 
-I can’t believe I am late!
-Eu não acredito que estou atrasado!
+I’ve got a splitting headache.
+Eu estou com uma dor de cabeça lancinante.
 
-This train is always late.
-Este trem está sempre atrasado.
+I have had a terrible headache for the last two days.
+Eu estive com uma dor de cabeça terrível nos últimos dois dias.
 
-Sorry I’m late. I was held up in traffic.
-Desculpe, estou atrasado. Eu fiquei preso no trânsito.
+In our sample, a much smaller proportion of men than women reported headaches.
+Em nossa amostragem, uma proporção bem menor de homens do que de mulheres relataram dores de cabeça.
 
-I have to leave. I am so late!
-Eu preciso ir embora. Eu estou tão atrasado!
+This is a real headache for us.
+Isso é uma verdadeira dor de cabeça para nós.
 
-Don’t worry, she is always late. She’ll be here soon.
-Não se preocupe, ela está sempre atrasada. Ela estará aqui logo.
+Finding a babysitter for Saturday evening will be a major headache.
+Encontrar uma babá para sábado à noite será uma grande dor de cabeça.
 
-Boy, I am late for that meeting.
-Rapaz, eu estou atrasado para aquela reunião.
+The airline’s biggest headache is the increase in the price of aviation fuel.
+A maior dor de cabeça da companhia aérea é o aumento no preço do combustível de aviação.
 
-Don’t be late for dinner.
-Não chegue atrasado para o jantar.
+Do you suffer from migraines?
+Você sofre de enxaqueca?
 
-You’ll be late for your flight if you don’t hurry up.
-Você chegará atrasado para o seu voo se não se apressar.
+Considering the amount of stress she’s under, it’s not surprising she keeps getting migraines.
+Considerando a quantidade de estresse que ela enfrenta, não surpreende que ela sempre tenha enxaqueca.
 
-Our ferry was two hours late because of the strike.
-A nossa balsa chegou duas horas atrasada por causa da greve.
+Migraine affects three times as many women as men.
+A enxaqueca afeta três vezes mais mulheres do que homens.
 
-The bride was late for the ceremony.
-A noiva chegou atrasada para a cerimônia.
+Her mother suffered from migraines.
+A mãe dela sofria de enxaqueca.
 
-I’m always late for class.
-Eu sempre chego atrasado na aula.
+I’m meeting her parents tonight, and I have a bad case of butterflies in my stomach.
+Vou conhecer os pais dela hoje à noite e estou com um sério frio na barriga. (A bad case of é um jeito de dizer que uma doença ou sensação, geralmente nervosismo ou ansiedade, é séria. Em português, creio que soa um pouco esquisito dizer “um caso de”, então a tradução muda um pouco.)
 
-He is going to be late for work.
-Ele chegará atrasado no trabalho.
+I had terrible butterflies before I gave that talk in Venice.
+Eu estava com um frio terrível na barriga antes de fazer aquela fala em Veneza. (Às vezes, como você vê, pode-se dizer to have butterflies, sem mencionar in one’s stomach.)
 
-I missed the start of the exam because my bus was late.
-Eu perdi o começo da prova porque o meu ônibus chegou atrasado.
+The butterflies in my stomach almost kept me from going on stage and performing.
+O frio na barriga quase me impediu de subir ao palco e apresentar.
 
-I started my own company, so now I work for myself.
-Eu abri a minha própria empresa, então agora eu trabalho por conta própria.
+Whenever I have to speak in public, I get butterflies in my stomach.
+Sempre que tenho de falar em público, fico com um frio na barriga.
 
-After one year, you can work for yourself.
-Após um ano, você pode trabalhar por conta própria.
+She always has butterflies in her stomach before a test.
+Ela sempre fica com um frio na barriga antes de uma prova.
 
-At the moment, I work for myself.
-No momento, eu trabalho por conta própria.
+It was not frightening enough to give me butterflies in my stomach, but it made me a little apprehensive.
+Não era assustador o suficiente para me dar um frio na barriga, mas me deixou um pouco apreensivo.
 
-Working freelance means having the freedom to choose your clients and work for yourself.
-Trabalhar como freelance significa ter a liberdade de escolher os seus clientes e trabalhar por conta própria.
+I always get butterflies in my stomach before making a speech.
+Eu sempre fico com um frio na barriga antes de fazer um discurso.
 
-I’m happy because from now on I’ll work for myself.
-Eu estou feliz porque, de agora em diante, eu trabalharei por conta própria.
+I’m starting to feel the butterflies in my stomach already.
+Já estou começando a sentir um frio na barriga.
 
-He’s the kind of man who likes to work for himself.
-Ele é o tipo de homem que gosta de trabalhar por conta própria.
+An exam, or even an exciting social event may produce butterflies in the stomach.
+Uma prova, ou mesmo um evento social empolgante, pode gerar um frio na barriga.
 
-Being allowed to work for yourself as a foreigner means being able to prove to the authorities that you can make ends meet.
-Poder trabalhar por conta própria como estrangeiro significa ser capaz de provar às autoridades que você pode pagar as contas.
+He had butterflies in his stomach on the morning of his wedding.
+Ele estava com um frio na barriga na manhã do seu casamento.
 
-The two men have a dream to buy their own small farm, where they can work for themselves.
-Os dois homens têm um sonho de comprar a sua própria pequena fazenda, onde eles poderão trabalhar por conta própria.
+Kevin had butterflies in his stomach every time he saw her.
+Kevin sentia um frio na barriga toda vez que a via.
 
-Do you pay less tax if you’re self-employed?
-Você paga menos impostos se for autônomo?
+Everytime I look at her I get butterflies in my stomach.
+Toda vez que olho para ela, sinto um frio no estômago.
 
-They run an advice centre for the self-employed.
-Eles administram um centro de consultoria para os autônomos.
+She felt butterflies in her stomach whenever he was around.
+Ela sentia um frio no estômago sempre que ele estava por perto.
 
-Health insurance is a concern for the country’s 4 million self-employed.
-O plano de saúde é uma preocupação para os 4 milhões de autônomos do país.
+– I just heard that Janet broke up with you. That’s hard luck, buddy.
+– Acabei de ouvir que a Janet terminou com você. Que azar, cara.
 
-There are no paid holidays or sick leave if you are self-employed.
-Não há férias pagas ou licença médica se você for autônomo.
+– Failed again, I’m afraid. – Oh, hard luck.
+– Falhei uma vez mais, infelizmente. – Ah, que azar.
 
-Kate tried each of the keys, but none of them fit. ‘Now what?’ she thought.
-Kate experimentou cada uma das chaves, mas nenhuma delas coube. “E agora?”, pensou ela.
+– I failed my driving test. – Oh, hard luck!
+– Não passei no meu teste de direção. – Ah, que azar!
 
-He was doing everything possible, but what now?
-Ele estava fazendo todo o possível, mas e agora?
+Hard luck, chaps. But that happens, don’t despair too much.
+Que azar, camaradas. Mas isto acontece, não se desesperem demais.
 
-And now what about these phone calls?
-E agora, quanto a essas ligações telefônicas?
+– We lost again. – Oh, hard luck!
+– Perdemos de novo. – Ah, que azar!
 
-The car won’t start. Now what?
-O carro não quer dar partida. E agora?
+You lost your job? Oh, tough luck.
+Você perdeu seu emprego? Ah, que azar.
 
-OK, I’m at the intersection you told me about — now what?
-OK, estou na intersecção da qual você falou – e agora?
+– They lost a lot of money on their investment. – Tough luck – they should have been more careful.
+– Eles perderam muito dinheiro no investimento. – Que azar – mas eles deviam ter sido mais cuidadosos.
 
-Well, now what? We rebooted the system, but we’re still not getting any signal.
-Bem, e agora? Fizemos o reboot do sistema, mas ainda não estamos recebendo nenhum sinal.
+You didn’t get the job? Oh, tough luck!
+Você não conseguiu o emprego? Ah, que azar!
 
-“Oh, now what?” she muttered aloud when the alarm sounded for the third time.
-“Ah, e agora?” ela murmurou em voz alta quando o alarme soou pela terceira vez.
+– I think I’ve damaged my back. – Oh, bad luck!
+– Acho que prejudiquei as costas. – Ah, que azar.
 
-Well, that idea didn’t work. Now what?
-Bem, esta ideia não funcionou. E agora?
+– I was up two pawns and had a winning advantage, but blundered it all in one move. – Tough luck!
+– Eu estava com dois peões a mais e tinha uma vantagem decisiva, mas pus tudo a perder em um lance. – Que azar!
 
-I tried everything you said but still the computer won’t start. Now what?
-Eu tentei tudo o que você disse, mas o computador ainda não quer iniciar. E agora?
+She wrote dull articles for the local newspaper.
+Ela escrevia artigos sem graça para o jornal local.
 
-It didn’t work. Now what?
-Não funcionou. E agora?
+He’s a pleasant man, but deadly dull.
+Ele é um homem agradável, mas extremamente sem graça.
 
-I kept trying all day but still this thing won’t start. What now?
-Fiquei tentando o dia todo, mas ainda assim esse troço não quer iniciar. E agora?
+I find his art rather dull and conventional.
+Eu acho a arte dele bem sem graça e convencional.
 
-I played all the right moves in the opening and got a perfect position, but what now?
-Joguei todos os lances certos na abertura e consegui uma posição perfeita, mas e agora?
+For years, he’s plodded away at the same dull job.
+Por anos, ele labutou no mesmo trabalho sem graça.
 
-In business, it’s every man for himself.
-Nos negócios, é cada um por si.
+Those books seem rather dull beside this one.
+Aqueles livros parecem muito sem graça perto desse.
 
-It might be a civilized place to shop at other times, but come the January sales, it’s every man for himself.
-Pode ser um local civilizado para se fazer compras em outras épocas, mas quando chegam as vendas de janeiro, é cada um por si.
+The ponderous reporting style makes the evening news dull viewing.
+O enfadonho estilo de reportagem faz o noticiário da noite ficar sem graça de assistir.
 
-As soon as there was a crisis, it was every man for himself.
-Assim que havia uma crise, era cada um por si.
+I felt she found me boring and dull.
+Eu senti que ela me achou tedioso e sem graça.
 
-In this company, no one helps anyone — it’s every man for himself.
-Nesta empresa, ninguém ajuda ninguém — é cada um por si.
+The documentary lasts for more than two and a half hours, and there is scarcely a dull minute.
+O documentário dura mais de duas horas e meia e mal contém um minuto sem graça.
 
-Once we realized that there was only one scoop of ice cream left, it was every man for himself.
-Assim que nos demos conta de que só havia restado uma bola de sorvete, foi cada um por si.
+She felt embarrassed about undressing in front of the doctor.
+Ela se sentiu sem graça de tirar a roupa na frente do médico.
 
-Increasingly, it seems like it’s every man for himself during election season.
-Cada vez mais, parece que é cada um por si durante o período eleitoral.
+I was too embarrassed to admit that I was scared.
+Eu estava sem graça demais para admitir que estava com medo.
 
-At first, we tried to help each other study for the exam, but just a few days later, it was every man for himself.
-No início, nós tentamos ajudar uns aos outros a estudar para a prova, mas apenas alguns dias depois, era cada um por si.
+You have no idea how embarrassed I was.
+Você não faz ideia do quanto eu estava sem graça.
 
-When the ship began to sink, it was every man for himself.
-Quando o navio começou a afundar, foi cada um por si.
+He was so embarrassed – his face went brick-red.
+Ele ficou tão sem graça – seu rosto ficou vermelho.
 
-Tribes survive by sticking together at all costs, and when it’s every man for himself, the tribe ceases to be a tribe.
-As tribos sobrevivem por permanecerem juntas a todo custo, e quando é cada um por si, a tribo deixa de ser uma tribo.
+She looked a bit embarrassed by all the praise.
+Ela parecia um pouco sem graça com todos os elogios.
 
-I want to say emphatically: “every man for himself” is an illusory solution, a short-sighted way of looking at things.
-Eu quero dizer enfaticamente: “cada um por si” é uma solução ilusória, uma maneira imediatista de enxergar as coisas.
+I was too embarrassed to admit that I’d forgotten.
+Eu estava sem graça demais para admitir que eu havia esquecido.
 
-There are no teams — it’s every man for himself.
-Não há nenhum time — é cada um por si.
+I’ve never been so embarrassed in my life.
+Eu nunca fiquei tão sem graça na minha vida.
 
-My condolences on the loss of your uncle.
-Meus pêsames pela perda do seu tio.
+She was too embarrassed to ask for help.
+Ela estava sem graça demais para pedir ajuda.
 
-“I just found out that my father passed away.” “My sympathies! Is there anything I can do for you?”
-“Eu acabei de ficar sabendo que meu pai faleceu.” “Meus pêsames! Há algo que eu possa fazer por você?”
+As a rule, I stay in on Friday nights.
+Por via de regra, eu fico em casa nas noites de sexta-feira.
 
-I want to express my condolences to your family.
-Eu quero dar os pêsames à sua família.
+As a rule, Irene does not eat meat.
+Por via de regra, a Irene não come carne.
 
-She wishes to offer her sympathies to them.
-Ela deseja dar os pêsames a eles.
+As a rule, however, such attacks have been aimed at causing damage rather than taking life.
+Por via de regra, entretanto, tais ataques visavam mais causar danos do que tirar a vida.
 
-The mayor offered his condolences.
-O prefeito deu os pêsames.
+My mother always makes extra food for family dinners, as a rule.
+A minha mãe sempre faz comida extra para os jantares de família, por via de regra.
 
-Dignitaries from all over the world came to offer their condolences.
-Dignitários de todo o mundo vieram dar os pêsames.
+As a rule, things tend to get less busy after supper time.
+Por via de regra, as coisas costumam ficar menos agitadas depois da hora do jantar.
 
-She wished to offer her condolences.
-Ela queria dar os pêsames.
+As a rule, men should wear tuxedos at formal dinners.
+Por via de regra, os homens devem usar ternos em jantares formais.
 
-In the early evening, she answered the door to find Helen Morris, of all people, come to offer her condolences.
-No início da noite, ela atendeu à porta para encontrar justo a Helen Morris vindo dar os pêsames.
+As a rule, the bus picks me up at 7:30 every morning.
+Por via de regra, o ônibus me pega às 7:30 toda manhã.
 
-Tom, I just heard about your wife’s passing and wanted to offer my most sincere condolences.
-Tom, eu acabei de ficar sabendo do falecimento da sua esposa e queria dar os mais sinceros pêsames.
+It’s lucky for you that I’m still awake. As a rule, I’m in bed by eleven.
+Sorte sua que eu ainda estou acordado. Por via de regra, eu estou na cama às onze.
 
-We’re ringing up after lunch to offer condolences to the family.
-Nós ligaremos depois do almoço para dar os pêsames à família.
+As a rule, we take the bus.
+Por via de regra, nós vamos de ônibus.
 
-Jane wasn’t able to make it to the funeral, but she wanted to offer you her condolences nonetheless.
-A Jane não conseguiu ir ao funeral, mas queria lhe dar os pêsames mesmo assim.
+As a general rule, I don’t read detective novels.
+Por via de regra, eu não leio romances policiais.
 
-He expressed his condolences to the families of the people who died in the incident.
-Ele deu os pêsames às famílias das pessoas que morreram no acidente.
+As a general rule, we don’t allow children in here.
+Por via de regra, nós não permitimos crianças aqui.
 
-We wish to express our sincere condolences to your family.
-Nós queremos dar os sinceros pêsames para a sua família.
+As a general rule, I won’t sit in the window seat on an airplane. I get too anxious watching the ground below disappear!
+Por via de regra, eu não me sento no assento da janela em um avião. Eu fico muito ansioso assistindo ao chão abaixo desaparecer!
 
-I therefore express my sincerest condolences to the victims.
-Eu, portanto, dou os mais sinceros pêsames às vítimas.
+He can be found in his office, as a general rule.
+Ele pode ser encontrado em seu escritório, por via de regra.
 
-Well, first of all, let me express my condolences to the entire firm.
-Bem, antes de mais nada, permita-me dar os pêsames a toda a firma.
+As a general rule, Jane plays golf on Wednesdays.
+Por via de regra, a Jane joga golfe às quartas-feiras.
 
-Lyla offered her sympathies to the mourning family.
-A Lyla deu os pêsames à família enlutada.
+To tell the truth, I couldn’t hear a word he said.
+Para dizer a verdade, não consegui ouvir uma palavra do que ele disse.
 
-May I offer my deepest sympathies on the death of Lady Milroy.
-Permita-me dar os mais profundos pêsames pela morte da Lady Milroy.
+I didn’t really like the movie, to tell the truth.
+Eu não gostei muito do filme, para dizer a verdade.
 
-By the way, I’d like to offer my sympathies to Mr. Armstrong.
-A propósito, eu gostaria de dar os pêsames ao sr. Armstrong.
+I don’t really want to go out, to tell the truth.
+Não quero muito sair, para falar a verdade.
 
-I am writing to offer my deepest sympathies to you and your family.
-Eu estou escrevendo para dar os mais profundos pêsames a você e à sua família.
+To tell you the truth, I’m completely bored.
+Para falar a verdade, estou totalmente entediada.
 
-We were so saddened to hear about the passing of your sweet brother and we offer you our deepest sympathies.
-Nós ficamos muito tristes de ficar sabendo do falecimento do seu querido irmão e lhe damos os mais profundos pêsames.
+To tell you the truth, I was afraid to see him.
+Para dizer a verdade, eu estava com medo de vê-lo.
 
-He didn’t talk about his exam results in case people thought he was boasting.
-Ele não falava sobre seus resultados do exame para que as pessoas não pensassem que ele estava contando vantagem. (Note a estrutura in case people thought, “para o caso de as pessoas pensarem” ou “para que as pessoas não pensassem”.)
+Truth to tell, John did not want Veronica at his wedding.
+A bem dizer, John não queria a Veronica no casamento dele.
 
-He keeps boasting about his heroic actions, but he really didn’t have that big of a role in the rescue efforts.
-Ele fica contando vantagem sobre suas ações heróicas, mas na verdade ele não teve um papel tão grande assim nos esforços de resgate.
+Truth be told, the food was pretty bad.
+Verdade seja dita, a comida era bem ruim.
 
-He spends half his time boasting about past victories.
-Ele passa metade do tempo contando vantagem sobre vitórias passadas.
+Truth be told, even though I majored in English literature, I’ve never read anything by Hemingway!
+Verdade seja dita, embora eu tenha me especializado em literatura inglesa, eu nunca li nada de Hemingway!
 
-She’s always bragging about how much money she earns.
-Ela está sempre contando vantagem sobre o quanto de dinheiro que ganha.
+I know I said I wanted to go out to the bars tonight, but if the truth be told, I’d rather just stay home and watch a movie.
+Eu sei que eu disse que queria ir para os bares hoje à noite, mas para dizer a verdade eu preferia só ficar em casa e assistir a um filme.
 
-The government has been bragging about the good economy.
-O governo tem estado contando vantagem sobre a boa economia.
+I’m not sure if I can do this, truth be told.
+Não tenho certeza se posso fazer isso, para dizer a verdade.
 
-He’s always bragging about his success.
-Ele está sempre contando vantagem sobre seus sucessos.
+Actually, truth be told, I just don’t like you.
+Na realidade, verdade seja dita, eu simplesmente não gosto de você.
 
-He had a very successful year and has every right to blow his own trumpet.
-Ele teve um ano muito bem sucedido e tem todo direito de contar vantagem.
+If truth be told, I’ve never really liked David’s wife.
+Verdade seja dita, eu nunca gostei muito da esposa do David.
 
-I don’t mean to blow my own trumpet, but this pasta sauce I made is quite delicious!
-Não quero ficar contando vantagem, mas este molho de macarrão que eu fiz é delicioso!
+I personally would have loved it.
+Eu, pessoalmente, teria amado isso.
 
-I can’t stand being around Marcus ever since his company became such a massive success. The guy just can’t stop blowing his own trumpet!
-Não aguento ficar perto do Marcus desde que a companhia dele virou um sucesso tão enorme. O cara simplesmente não consegue parar de contar vantagem!
+I personally think it’s too cold to go out.
+Eu, pessoalmente, acho que está frio demais para sair.
 
-He talks big about all the things he’s doing to make the country safer, but so far his administration hasn’t done much.
-Ele fica contando vantagem sobre todas as coisas que está fazendo para tornar o país mais seguro, mas até agora a administração dele não fez muito.
+I personally prefer pizza to burgers.
+Eu, pessoalmente, prefiro pizza do que hambúrguer.
 
-She likes to talk big about how great a tennis player she is, but I don’t think she’s even won a tournament.
-Ela gosta de contar vantagem sobre a grande jogadora de tênis que é, mas eu acho que ela nem sequer ganhou um torneio.
+I personally think their marriage won’t last.
+Eu, pessoalmente, acho que o casamento deles não vai durar.
 
-The President talks big but he doesn’t do anything.
-O presidente conta vantagem, mas não faz coisa alguma.
+I personally think we should stick with our original plan.
+Eu, pessoalmente, acho que nós deveríamos manter o nosso plano original.
 
-I don’t have the faintest idea what you’re talking about.
-Eu não faço a mínima ideia do que você está falando.
+She’s a very talented young singer, and I personally think she’s going places!
+Ela é uma jovem cantora muito talentosa e eu, pessoalmente, acho que ela vai longe!
 
-I haven’t the slightest idea what you’re on about.
-Não tenho a mínima ideia do que você se refere. (To be on about é um jeito de dizer “se referir” ou “querer dizer”. Geralmente, você usa esta expressão para dizer que não entende o que a pessoa quer dizer, como na frase acima.)
+The rest of you may disagree, but I, for one, think we should go ahead with the project.
+O resto de vocês pode discordar, mas eu, pessoalmente, acho que nós deveríamos prosseguir com o projeto.
 
-– Where did I put my keys?– I haven’t the foggiest.
-– Onde coloquei as minhas chaves – Não faço a mínima.
+I, for one, hope you don’t get the job.
+Eu, pessoalmente, espero que você não consiga o emprego.
 
-I haven’t the foggiest idea what she’s talking about.
-Não tenho a mínima ideia do que ela está falando.
+He doesn’t like their behavior, and I for one agree with him.
+Ele não gosta do comportamento deles e eu, pessoalmente, concordo com ele.
 
-I don’t have the foggiest idea what his address is.
-Não faço a menor ideia de qual é o endereço dele.
+I for one do not like the idea of trying to sell second-rate goods.
+Eu, pessoalmente, não gosto da ideia de tentar vender mercadorias de segunda categoria.
 
-I haven’t the faintest idea what you mean.
-Eu não tenho a menor ideia do que você quer dizer.
+It’s getting late and I, for one, must be going.
+Está ficando tarde e eu, pessoalmente, preciso ir embora.
 
-– Is she home today? – I don’t have the slightest idea. Ask Elaine, she’ll know.
-– Ela está em casa hoje? – Não tenho a menor ideia. Pergunte para a Elaine, ela vai saber.
+Nothing has been proved yet, and I for one believe that he is innocent.
+Nada foi aprovado ainda, e eu, pessoalmente, acredito que ele seja inocente.
 
-– How often does it need to be changed?– Haven’t the foggiest.
-– Com qual frequência precisa ser trocado? – Não faço ideia.
+I can tell you that I for one am really happy about the changes to the tax law they’ve introduced.
+Eu posso lhe dizer que eu, pessoalmente, estou muito feliz com as mudanças na legislação fiscal que eles introduziram.
 
-I did not have the foggiest idea what he meant.
-Eu não tinha a menor ideia do que ele queria dizer.
+I am studying English, as always! (I am studying English, as usual!)
+Eu estou estudando inglês, como sempre!
 
-I don’t have the foggiest idea why he called me.
-Não tenho a menor ideia de que por que ele me chamou.
+As always, dinner was delicious.
+Como sempre, o jantar estava delicioso.
 
-– When do we leave? – Haven’t the foggiest.
-– Quando partimos? – Não faço ideia.
+Your children, as always, were very well-behaved.
+Os seus filhos, como sempre, foram muito bem-comportados.
 
-None of us had the foggiest idea about how to put the tent up.
-Nenhum de nós tinha a menor ideia de como montar a barraca.
+As always, her father was there to meet her.
+Como sempre, o pai dela estava lá para se encontrar com ela.
 
-He likes being the center of attention.
-Ele gosta de ser o centro das atenções.
+As always, I think that consumers are looking for a product that tastes good.
+Como sempre, eu acho que os consumidores estão procurando um produto que seja saboroso.
 
-She was the centre of attention – like all brides.
-Ela era o centro das atenções – como todas as noivas.
+We’ll give you the facts, as always.
+Nós lhe apresentaremos os fatos, como sempre.
 
-He loves being the center of attention at any party.
-Ele ama ser o centro das atenções em qualquer festa.
+The truth, as always, is more complicated.
+A verdade, como sempre, é mais complicada.
 
-Do they want to be the centre of attention?
-Eles querem ser o centro das atenções?
+As always, Deborah was the last to arrive.
+Como sempre, a Deborah foi a última a chegar.
 
-I loved talking and being the centre of attention, so I was chosen to be spokesperson.
-Eu amava falar e ser o centro das atenções, então fui escolhido para ser o orador.
+As usual, she was wearing jeans.
+Como sempre, ela estava usando jeans.
 
-You can be the centre of attention in a conversation but then the focus changes as new participants enter the dialogue.
-Você pode ser o centro das atenções em uma conversa, mas depois o foco muda conforme novos participantes entram no diálogo.
+Dan got there late, as usual.
+O Dan chegou lá atrasado, como sempre.
 
-The tower is the centre of attention every morning when the choir sings on the rooftop.
-A torre é o centro das atenções todas as manhãs, quando o coral canta no terraço.
+As usual, there will be the local and regional elections on June the twelfth.
+Como sempre, as eleições locais e regionais ocorrerão em doze de junho.
 
-You always loved doing plays back in college. And you especially loved being the center of attention.
-Você sempre amou fazer peças lá na faculdade. E você amava especialmente ser o centro das atenções.
+The headlines are, as usual, a mixture of domestic and foreign news.
+As manchetes são, como sempre, uma mistura de notícias nacionais e internacionais.
 
-I don’t want a wedding. I can’t stand being the center of attention. I think we’ll just elope.
-Eu não quero um casamento. Eu não suporto ser o centro das atenções. Eu acho que nós iremos simplesmente casar a dois.
+When somebody died, everything went on as usual, as if it had never happened.
+Quando alguém morria, tudo continuava como sempre, como se aquilo nunca tivesse acontecido.
 
-And in this corner of the room, a gorgeous, three-tiered cake will be the center of attention.
-E neste canto do aposento, um bolo lindo de três camadas será o centro das atenções.
+Sam is ignoring me, as usual. I wonder if he’ll ever forgive me.
+O Sam está me ignorando, como sempre. Eu me pergunto se ele me perdoará algum dia.
 
-She had a way of making herself the center of attention wherever she went.
-Ela tinha o hábito de se tornar o centro das atenções onde quer que fosse.
+The writers’ group is meeting at the coffee shop on Saturday morning, as usual.
+O grupo de escritores se reunirá na cafeteria no sábado de manhã, como sempre.
 
-My little sister always has to be the center of attention, so of course her drama overshadowed my birthday party.
-Minha irmãzinha sempre tem que ser o centro das atenções, então é claro que o seu drama ofuscou a minha festa de aniversário.
+She’d been late for work every morning and I thought I’d better have it out with her.
+Ela havia se atrasado para o trabalho toda manhã e eu achei que era melhor tirar satisfações com ela.
 
-Our neighbours put their house up for sale last week.
-Os nossos vizinhos colocaram a casa deles à venda na semana passada.
+I had to have it out with my roommate because he never does his share of cleaning in the house.
+Eu tive de tirar satisfações com o meu companheiro de quarto, porque ele nunca faz a parte dele na limpeza da casa.
 
-We have decided to put the company up for sale.
-Nós decidimos colocar a empresa à venda.
+John has been mad at Mary for a week. He finally had it out with her today.
+O John esteve furioso com a Mary por uma semana. Ele finalmente tirou satisfações com ela hoje.
 
-The old grocery store has been put up for sale.
-A velha mercearia foi colocada à venda.
+You must stop ignoring Fred because of what he said, and have it out with him once and for all.
+Você precisa parar de ignorar o Fred por causa do que ele disse e tirar satisfações com ele de uma vez por todas.
 
-We’re putting the factory up for sale.
-Nós estamos colocando a fábrica à venda.
+Give her the chance of a night’s rest before you have it out with her.
+Dê a ela a chance de descansar uma noite antes de você tirar satisfações com ela.
 
-The castle has been put up for sale.
-O castelo foi colocado à venda.
+Why not have it out with your critic, discuss the whole thing face to face?
+Por que não tirar satisfações com os seus críticos, discutir a coisa toda cara a cara?
 
-The company put itself up for sale in January.
-A empresa se colocou à venda em janeiro.
+He decided to have it out with Rose there and then.
+Ele decidiu tirar satisfações com a Rose ali mesmo.
 
-The Hyatt went bankrupt and was put up for sale.
-A Hyatt faliu e foi colocada à venda.
+I’m going round to his house to have it out with him.
+Vou até a casa dele para tirar satisfações com ele.
 
-I’m putting some of my stuff up for sale to help pay my bills.
-Eu vou colocar algumas coisas minhas à venda para ajudar a pagar as minhas contas.
+I think it’s about time we have it out with him.
+Acho que está na hora de tirarmos satisfações com eles.
 
-Freeport put up for sale all its oil and gas reserves, but the company didn’t receive any realistic offers.
-A Freeport colocou à venda todas as suas reservas de petróleo e gás, mas a empresa não recebeu nenhuma oferta realista.
+Tom and his girlfriend are always having it out.
+O Tom e sua namorada estão sempre discutindo.
 
-The equipment was finally put up for sale.
-O equipamento finalmente foi colocado à venda.
+By giving out printed sheets of facts and theories, the teachers spoon-fed us with what we needed for the exam.
+Distribuindo folhas impressas com os fatos e teorias, os professores nos deram mastigado aquilo de que precisávamos para a prova. 
 
-The Herald has recently been put up for sale by the Scottish Media Group.
-O The Herald foi recentemente colocado à venda pelo Scottish Media Group.
+Some students are unwilling to really work. They want to be spoon-fed.
+Alguns alunos não querem se esforçar de verdade. Eles querem receber tudo mastigado.
 
-He never remembers anything I tell him. It just goes in one ear and out the other.
-Ele nunca se lembra de nada que eu lhe falo. Simplesmente entra por um ouvido e sai pelo outro.
+They’ve been spoon-fed, provided with a house, servants, bank balance.
+Eles receberam tudo mastigado, foram providenciados com casa, servos, saldo bancário.
 
-They gave me that information years ago, but it must have gone in one ear and out the other.
-Eles me deram aquela informação há anos, mas ela deve ter entrado por um ouvido e saído pelo outro.
+Her students are lazy because she always spoon-feeds them the answers.
+Os alunos dela são preguiçosos, porque ela sempre dá as respostas mastigadas para eles.
 
-Everything I say to you seems to go in one ear and out the other.
-Tudo que eu falo para você parece entrar por um ouvido e sair pelo outro.
+You mustn’t spoon-feed the new recruits by telling them what to do all the time. They must use their initiative.
+Você não deve dar tudo mastigado para os novos recrutas, dizendo a eles o que fazer o tempo todo. Eles precisam usar a própria iniciativa.
 
-“Why don’t you pay attention?” “I can’t concentrate. Things people say to me just go in one ear and out the other.”
-“Por que você não presta atenção?” “Eu não consigo me concentrar. As coisas que as pessoas me falam simplesmente entram por um ouvido e saem pelo outro.
+I don’t believe in spoon-feeding students.
+Eu não acredito em dar tudo mastigado para os alunos.
 
-I’ve told him so many times — it just goes in one ear and out the other.
-Eu disse para ele tantas vezes — simplesmente entra por um ouvido e sai pelo outro.
+Certain people enjoy finding out things for themselves; others prefer being spoon-fed.
+Certas pessoas gostam de descobrir as coisas por conta própria; outras, preferem receber tudo mastigado.
 
-If I have to listen to something I don’t understand, it just goes in one ear and out the other.
-Se eu tiver que ouvir algo que eu não entenda, aquilo simplesmente entra por um ouvido e sai pelo outro.
+Teachers should avoid spoon-feeding facts to students.
+Os professores deveriam evitar dar os fatos mastigados para os alunos.
 
-All the criticism is water off a duck’s back to me.
-Para mim, toda a crítica entra por um ouvido e sai pelo outro.
+I prefer to learn by myself, and not have everything spoon-fed to me.
+Eu prefiro aprender por mim mesmo, e não ter tudo dado mastigadinho.
 
-He tried to convince her to take the job, but his advice was like water off a duck’s back.
-Ele tentou convencê-la a aceitar o emprego, mas seu conselho entrou por um ouvido e saiu pelo outro.
+The problem with having information spoon-fed to you is that it kills creativity and the ability to think by oneself.
+O problema de ter a informação dada mastigadinha para você é que isso mata a criatividade e a capacidade de pensar por conta própria.
 
-All those things he said to me were just water off a duck’s back.
-Todas aquelas coisas que ele me disse simplesmente entraram por um ouvido e saíram pelo outro.
+He had the press eating out of his hand.
+Ele tinha a imprensa comendo na palma da sua mão.
 
-I’ve told him that he can’t keep throwing money around like that, but he doesn’t listen – it’s just water off a duck’s back.
-Eu lhe disse que ele não pode continuar torrando dinheiro assim, mas ele não escuta – simplesmente entra por um ouvido e sai pelo outro.
+She usually has the guys eating out of her hand.
+Ela geralmente tem os caras comendo na palma da sua mão.
 
-Every time you discipline him he will smile sweetly so that you may think your rebukes are like water off a duck’s back.
-Toda vez que você o disciplina, ele sorri docemente para que você pense que as suas reprimendas entraram por um ouvido e saíram pelo outro.
+I’ve got her eating out of my hand. She’ll do anything I ask.
+Eu tenho ela comendo na palma da minha mão. Ela fará qualquer coisa que eu pedir.
 
-We can buy them for $10 and sell them for $25 – easy money.
-Nós podemos comprá-los por $10 e vendê-los por $25 – dinheiro fácil.
+He will be eating out of your hand before you are finished with him.
+Ele estará comendo na palma da sua mão antes de você ter terminado com ele.
 
-Schools facing tight budgets see corporate sponsorship as easy money.
-Escolas que lidam com orçamentos apertados veem o patrocínio corporativo como dinheiro fácil.
+You can tell the candidate has his followers eating out of his hand — they’ll believe anything he says.
+Dá pra notar que o candidato tem os seus partidários comendo na palma da sua mão ─ eles acreditarão em qualquer coisa que ele disser.
 
-Sincere spirit and moral authority count, not quick and easy money.
-Espírito sincero e autoridade moral contam, não dinheiro fácil e rápido.
+Within two minutes of walking into the classroom, she had the kids eating out of her hand.
+Dentro de dois minutos após entrar na sala de aula, ela tinha as crianças comendo na palma da sua mão.
 
-The thought of easy money draws many people to drug dealing.
-A ideia de dinheiro fácil atrai muitas pessoas ao tráfico de drogas.
+He soon had the client eating out of his hand.
+Ele logo tinha o cliente comendo na palma da sua mão.
 
-The business pages were calling it ‘the end of the era of easy money’.
-As páginas de negócios estavam chamando isso de ‘o fim da era do dinheiro fácil’.
+He’s brilliant in job interviews ─ he always manages to get the interviewer eating out of his hand.
+Ele é brilhante em entrevistas de emprego ─ ele sempre consegue ter o entrevistador comendo na palma da sua mão.
 
-Babysitting is money for old rope if the children don’t wake up.
-Ser babá é dinheiro fácil se as crianças não acordarem.
+I introduced him to my mother, and within minutes she had him eating out of her hand.
+Eu o apresentei para a minha mãe e, em questão de minutos, ela tinha ele comendo na palma da sua mão.
 
-I had always believed that the top model’s job was money for old rope.
-Eu sempre havia acreditado que o trabalho da top model era dinheiro fácil.
+Most women have their husbands eating out of their hands.
+A maioria das mulheres têm os seus maridos comendo na palma das suas mãos.
 
-We are not part of that circle whose members regularly get money for old rope.
-Nós não fazemos parte daquele círculo, cujos membros regularmente ganham dinheiro fácil.
+The guys have the crowd eating out of their hand right away making a few jokes.
+Os caras têm a multidão comendo na palma das suas mãos imediatamente, fazendo algumas piadas.
 
-That was money for old rope because they did not have to do anything.
-Aquilo era dinheiro fácil porque eles não precisavam fazer nada.
+We don’t have any flour left, as far as I remember, but you can check in the closet.
+Não temos mais farinha, que eu me lembre, mas você pode verificar no armário.
 
-He charged £65 for a 30 minute consultation — how’s that for money for old rope?
-Ele cobrou £65 por uma consulta de 30 minutos — isso é que é dinheiro fácil!
+As far as I remember, we need this part of the project done by Wednesday.
+Que eu me lembre, precisamos que esta parte do projeto seja completada até a quarta-feira.
 
-Selling ice-cream is money for jam when it is very hot.
-Vender sorvete é dinheiro fácil quando está muito quente.
+As far as I can remember, their wedding was in 1983, but maybe it was a little earlier.
+Que eu me lembre, o casamento deles foi em 1983, mas talvez tenha sido um pouco antes.
 
-“I’m getting paid to stay in my neighbours’ mansion while they’re on holiday.” “Wow, that’ll be money for jam!”
-“Eu vou receber para ficar na mansão dos meus vizinhos enquanto eles estiverem de férias.” “Uau, isso vai ser dinheiro fácil!”
+As far as I recall, she has never explicitly stated that she wants to become Prime Minister.
+Que eu me lembre, ela nunca declarou expressamente que quer ser primeira ministra.
 
-I love working on bicycles, so this job will be money for jam.
-Eu amo trabalhar de bicicleta, então esse emprego será dinheiro fácil.
+– Have you seen this place before? – No, not as far as I recall.
+– Você já viu esse lugar antes? – Não, não que eu me lembre.
 
-Twenty quid for watching a movie while the kids are asleep? Sounds like money for jam to me!
-Vinte pratas para assistir a um filme enquanto as crianças estão dormindo? Parece ser dinheiro fácil para mim!
+That’s not what they said, as far as I recall.
+Não foi isso o que eles disseram, pelo que eu me lembro.
 
-With his experience, the business was money for jam at $25.00 for a light morning’s work.
-Com a experiência dele, o negócio era dinheiro fácil, ganhando $25,00 em uma manhã tranquila de trabalho.
+To the best of my recollection, she drives a Mercedes.
+Que eu me lembre, ela dirige uma Mercedes.
 
-It became obvious that all her complaints were in vain.
-Ficou óbvio que todas as reclamações dela eram em vão.
+To the best of my recollection no one ever had a bad word to say about him.
+Que eu me lembre, ninguém nunca teve algo ruim a dizer sobre ele.
 
-He wants the world to know his son did not die in vain.
-Ele quer que o mundo saiba que seu filho não morreu em vão.
+To the best of my recollection I have never seen her before.
+Que eu me lembre, eu nunca a vi antes.
 
-I hope their sacrifices have not been in vain.
-Espero que os sacrifícios deles não tenham sido em vão.
+He knows the history of the matter, and he has given the facts, to the best of my recollection, with complete accuracy.
+Ele sabe a história da questão e ele deu os fatos, pelo que me lembro, com total precisão.
 
-I tried in vain to start a conversation.
-Eu tentei em vão puxar conversa.
+No one, to my recollection, gave a second thought to the risks involved.
+Ninguém, pelo que me lembro, pensou duas vezes sobre os riscos envolvidos.
 
-All the police’s efforts to find him were in vain.
-Todos os esforços da polícia em encontrá-lo foram em vão.
+He was shot for breaking the curfew.
+Ele foi baleado por violar o toque de recolher.
 
-We walked on, looking in vain for a taxi.
-Continuamos a andar, procurando em vão por um táxi.
+We do not keep records of the length of previous curfews.
+Nós não mantemos registros da duração de toques de recolher anteriores.
 
-He swore that his son’s death would not be in vain.
-Ele jurou que a morte de seu filho não seria em vão.
+The village was placed under curfew.
+A aldeia foi colocada sob toque de recolher.
 
-Police searched in vain for the missing gunman.
-A polícia procurou em vão o atirador desaparecido.
+Crowds of people defied the curfew to celebrate on the streets.
+Multidões de pessoas desafiaram o toque de recolher para comemorar nas ruas.
 
-Workers tried in vain to keep the building from collapsing.
-Os trabalhadores tentaram em vão impedir o edifício de desmoronar.
+He was also given a suspended jail sentence and night curfew.
+Ele também recebeu uma pena suspensa e um toque de recolher noturno.
 
-It took a great deal of courage to admit that all her efforts had been in vain.
-Foi precisa muita coragem para admitir que todos os seus esforços haviam sido em vão.
+He is free to come and go during the day but has to observe a curfew at night.
+Ele é livre para ir e vir durante o dia, mas precisa obedecer a um toque de recolher à noite.
 
-The students asked the school to help them raise the money, but to no avail.
-Os estudantes pediram à escola que os ajudasse a levantar o dinheiro, mas em vão.
+The crowd begins slowly to disperse under the impatient eyes of police officers imposing a city curfew.
+A multidão começa lentamente a se dispersar sob o olhar impaciente dos policiais que impunham um toque de recolher na cidade.
 
-They tried to discuss the issue calmly, but to no avail.
-Eles tentaram discutir a questão calmamente, mas em vão.
+The city ordered a curfew to prevent further rioting.
+A cidade decretou toque de recolher para evitar mais tumultos.
 
-All my protesting over the decision to fire Jeff was to no avail.
-Todos os meus protestos relativos à decisão de demitir Jeff foram em vão. (Note a estrutura em inglês all my protesting, que literalmente soaria como “todo o meu protestamento”.)
+The authorities declared a state of emergency and imposed a curfew.
+As autoridades declararam estado de emergência e impuseram um toque de recolher.
 
-Everything I did to help was of no avail. Nothing worked.
-Tudo o que fiz para ajudar foi em vão. Nada funcionou.
+The accused is under a curfew from 8 pm till 6 am.
+O acusado está sob um toque de recolher das 8 da noite até as 6 da manhã.
 
-All his shouting was to no avail, no one could hear him.
-Toda a gritaria dele foi em vão, ninguém conseguia ouvi-lo.
+The curfew was lifted on May 6th.
+O toque de recolher foi revogado em 6 de maio.
 
-We searched the whole area but all to no avail.
-Pesquisamos a área inteira, mas sem resultado.
+Anyone found in the streets after curfew was shot.
+Qualquer um encontrado nas ruas após o toque de recolher era baleado.
 
-I apologized repeatedly, but to little avail.
-Eu pedi desculpas várias vezes, mas com pouco resultado.
+I wish you well in your new job.
+Eu lhe desejo tudo de bom no seu novo emprego.
 
-Her Spanish has improved by leaps and bounds this year.
-O espanhol dela melhorou a passos largos este ano.
+The crowd wished them well as they left for their honeymoon.
+A multidão lhes desejou tudo de bom enquanto eles partiam para a sua lua-de-mel.
 
-The airport continues to grow in leaps and bounds.
-O aeroporto continua crescendo a passos largos.
+The breakup was hard, but there was no animosity on either side; I genuinely wish him well.
+O término foi difícil, mas não havia hostilidade de nenhum dos lados; eu genuinamente desejo tudo de bom para ele.
 
-The company is growing by leaps and bounds this year.
-A companhia está crescendo a passos largos este ano.
+On behalf of everyone here, let me say that we wish you well in your adventure to Japan.
+Em nome de todos aqui, permita-me dizer que nós lhe desejamos tudo de bom em sua aventura ao Japão.
 
-He’s improved in leaps and bounds this season.
-Ele melhorou a passos largos nesta temporada.
+We wish you all the best in your new job in Europe.
+Nós lhe desejamos tudo de bom em seu novo emprego na Europa.
 
-The total number of species on the planet appears to be growing by leaps and bounds.
-O número total de espécies no planeta parece estar aumentando a passos largos.
+Wish him all the best, and tell him we miss him.
+Deseje-lhe tudo de bom, e diga-lhe que nós estamos com saudade dele.
 
-The literature on nationalism has grown by leaps and bounds over the last two decades.
-A literatura sobre nacionalismo cresceu a passos largos durante as últimas duas décadas.
+We’d just like to wish him all the best in his new job.
+Gostaríamos apenas de desejar a ele tudo de bom em seu novo trabalho.
 
-We are progressing by leaps and bounds.
-Estamos progredindo a passos largos.
+I wish you all the best for the coming year.
+Eu lhe desejo tudo de bom no ano vindouro.
 
-Our small company has been growing by leaps and bounds over the past year.
-Nossa pequena companhia tem estado crescendo a passos largos durante o último ano.
+I wish all the best in your future endeavours.
+Eu lhe desejo tudo de bom em seus futuros empreendimentos.
 
-What was once a tiny music club has expanded by leaps and bounds over the years.
-O que antes era um pequenino clube musical expandiu a passos largos com o passar dos anos.
+We’re sorry that you’re leaving, and we wish you the best of luck in your new job.
+Nós lamentamos que você esteja indo embora e lhe desejamos tudo de bom em seu novo emprego.
 
-The profits of my company are increasing by leaps and bounds.
-Os lucros da minha companhia estão aumentando a passos largos.
+He kissed her on the cheek. “I wish you the best of luck!”
+Ele a beijou na bochecha. “Eu lhe desejo tudo de bom!”
 
-Penny’s only son was the apple of her eye.
-O filho único da Penny era a menina dos olhos dela.
+I wish you the best of luck in your new endeavor — we’ll miss you around the office.
+Eu lhe desejo tudo de bom em seu novo empreendimento ─ nós sentiremos sua falta no escritório.
 
-I was the apple of my father’s eye.
-Eu era a menina dos olhos do meu pai.
+The British upper class is no longer very rich.
+A classe alta britânica não é muito rica mais.
 
-His youngest daughter was the apple of his eye.
-Sua filha mais nova era a menina dos olhos dele.
+The upper classes usually send their children to expensive private schools.
+As classes altas geralmente mandam seus filhos para escolas particulares caras.
 
-She has three children, but her youngest son is the apple of her eye.
-Ela tem três filhos, mas o seu filho mais novo é menina dos seus olhos.
+Those goods were specifically designed to appeal to the tastes of the upper class.
+Aquelas mercadorias foram especificamente projetadas para agradar aos gostos da classe alta.
 
-While my grandmother loved all of us very much, my younger brother was the apple of her eye.
-Embora a minha avó amasse muito a todos nós, o meu irmão mais novo era a menina dos olhos dela.
+She comes from an upper-class family.
+Ela vem de uma família de classe alta.
 
-Poor Richard was to me as an eldest son, the apple of my eye.
-O pobre Richard era para mim como um filho mais velho, a menina dos meus olhos.
+He grew up in an upper-class neighborhood in Cairo.
+Ele cresceu em um bairro de classe alta em Cairo.
 
-She was a very charming little girl and a very bright student, and was the apple of her teachers’ eyes.
-Ela era uma menininha muito encantadora e uma aluna muito inteligente, e era a menina dos olhos dos seus professores.
+The country’s economic problems have affected the middle class most strongly.
+Os problemas econômicos do país afetaram a classe média mais fortemente.
 
-He loved his daughter very much. She was the apple of his eye.
-Ele amava muito a sua filha. Ela era a menina dos seus olhos.
+I’m studying the expansion of the middle class in the late 19th century.
+Eu estou estudando a expansão da classe média no final do século 19.
 
-He said that Kelly was the apple of his eye. He could not imagine living without her.
-Ele disse que a Kelly era a menina dos olhos dele. Ele não conseguia imaginar viver sem ela.
+The President may have secured some support from the middle classes.
+O presidente pode ter adquirido algum apoio das classes médias.
 
-The young couple had a beautiful little son, and he was the apple of their eyes.
-O jovem casal tinha um lindo filhinho e ele era a menina dos olhos deles.
+Middle-class children have more advantages.
+Crianças de classe média têm mais vantagens.
 
-He was the apple of her eye, and she promised to take care of him for as long as she could.
-Ele era a menina dos olhos dela, e ela prometeu cuidar dele enquanto ela pudesse.
+They shop at a middle-class supermarket that sells dozens of different varieties of olives and fresh pasta.
+Eles compram em um supermercado de classe média que vende dezenas de variedades diferentes de azeitonas e massas frescas.
 
-‘My granddaughter is the apple of my eye’, said the old man, lovingly looking at her playing in the distance.
-“A minha neta é a menina dos meus olhos”, disse o senhor, carinhosamente observando-a brincar à distância.
+He’s a member of the lower class.
+Ele é membro da classe baixa.
 
-I waited for half an hour.
-Eu esperei por meia hora.
+Education now offers the lower classes access to job opportunities.
+A educação agora oferece às classes baixas acesso a oportunidades de trabalho.
 
-I’ll be back in half an hour.
-Eu estarei de volta em meia hora.
+Horse-racing was once considered vulgar and lower-class in Japan.
+As corridas de cavalo já foram consideradas vulgares e de classe baixa no Japão.
 
-Can you ring back in half an hour?
-Você pode ligar de volta em meia hora?
+They provided lower-class women with dignified employment.
+Eles forneciam às mulheres de classe baixa trabalho digno.
 
-Could they come back in half an hour?
-Eles poderiam voltar em meia hora?
+He claims his flat-tax proposal would help middle-class and lower-class Americans.
+Ele alega que a sua proposta de imposto único ajudaria os americanos de classe média e de classe baixa.
 
-When I finally spoke to somebody, they said that an engineer would call me back within half an hour.
-Quando eu finalmente falei com alguém, eles disseram que um engenheiro me ligaria de volta em meia hora.
+She described the brutal realities of lower-class life during the Depression.
+Ela descreveu as realidades cruéis da vida de classe baixa durante a Depressão.
 
-Within half an hour, he was back on the front line where his men could see him alive and fighting again.
-Dentro de meia hora, ele estava de volta à linha de frente, onde seus homens podiam vê-lo vivo e lutando novamente.
+The long-term unemployed now constitute a kind of underclass.
+Os desempregados há muito tempo constituem agora um tipo de classe baixa.
 
-Half an hour later, she was smiling and chatting as if nothing had happened.
-Meia hora depois, ela estava sorrindo e batendo papo como se nada tivesse acontecido.
+Letting guest workers into America doesn’t create an underclass.
+Deixar trabalhadores estrangeiros entrar na América não cria uma classe baixa.
 
-Trains depart every half hour.
-Os trens partem a cada meia hora.
+The nation needs to reduce the vast gap between the wealthy and the jobless underclass.
+A nação precisa reduzir o enorme abismo entre os ricos e a classe baixa desempregada.
 
-Once Mrs. Black starts talking to you, you’re stuck with her for a good half hour.
-Quando a senhora Black começa a conversar com você, você fica preso com ela por pelo menos meia hora.
+Johnson belongs to a new and growing underclass who work inside some of the world’s wealthiest companies.
+O Johnson pertence a uma nova e crescente classe baixa que trabalha dentro de algumas das empresas mais ricas do mundo.
 
-The train doesn’t leave for another half hour yet.
-O trem só sairá daqui meia hora ainda.
+The basic problems of the inner-city underclass are inadequate housing and lack of jobs.
+Os problemas básicos da classe baixa urbana são moradia inadequada e falta de empregos.
 
-Then we had to sit through another half hour of tedious explanations.
-Depois, nós tivemos que assistir a mais meia hora de explicações entediantes.
+You can fundraise for any charitable cause.
+Você pode arrecadar fundos para qualquer causa beneficente.
 
-The first half hour of the day is usually spent on correspondence, emails and paperwork.
-A primeira meia hora do dia geralmente é gasta com correspondências, e-mails e papelada.
+Those communities fundraised to help their own members after the tragedy.
+Aquelas comunidades arrecadaram fundos para ajudar os seus próprios membros após a tragédia.
 
-I’ve spent the last half hour trying to get the baby off to sleep.
-Eu passei a última meia hora tentando fazer o bebê dormir.
+During his recovery, he decided to fundraise for a cancer charity.
+Durante a sua recuperação, ele decidiu arrecadar fundos para uma instituição de caridade para o câncer.
 
-I waited a half-hour in line.
-Eu esperei meia hora na fila.
+Candidates from both political parties will continue to fundraise regardless of outside events.
+Candidatos de ambos os partidos políticos continuarão a arrecadar fundos independentemente de eventos externos.
 
-I got off work a half-hour ago.
-Eu saí do serviço há meia hora.
+I’d fundraised in my private life, so it seemed obvious to do it professionally.
+Eu havia arrecadado fundos na minha vida privada, então pareceu óbvio fazer isso profissionalmente.
 
-The lecture led to a half-hour of stimulating dialogue.
-A palestra levou à meia hora de um diálogo estimulante.
+After his retirement, he continued to fundraise for the Democratic Party.
+Depois da sua aposentadoria, ele continuou a arrecadar fundos para o Partido Democrático.
 
-There was a long half-hour wait before he was rescued.
-Houve uma longa espera de meia hora antes de ele ser resgatado.
+His bucket list included some really funny and imaginative ways to fundraise.
+A sua lista de coisas a fazer antes de morrer incluía algumas maneiras bem engraçadas e criativas de arrecadar fundos.
 
-It’s a half-hour TV show.
-É um programa de TV de meia hora.
+We managed to raise money through sponsored events.
+Nós conseguimos arrecadar fundos através de eventos patrocinados.
 
-I do half-hour sessions of meditation to relax.
-Eu faço sessões de meditação de meia hora para relaxar.
+We need your help to raise money for urgent medical research.
+Nós precisamos da sua ajuda para arrecadar fundos para pesquisas médicas urgentes.
 
-I could eat whatever I want if I added three half-hour swims to my weekly routine.
-Eu poderia comer o que quisesse se eu acrescentasse três nados de meia hora à minha rotina semanal.
+I want to start my own business if I can raise enough money.
+Eu quero começar o meu próprio negócio, se eu conseguir arrecadar fundos suficientes.
 
-I lay in my tent in the dead of night, listening to the noises in the woods.
-Eu me deitei em minha tenda na calada da noite, escutando os barulhos na floresta.
+We will raise funds for reconstruction by disposing of assets.
+Nós iremos arrecadar fundos para a reconstrução nos desfazendo de ativos.
 
-I couldn’t fly illegally into a country in the dead of night.
-Eu não poderia voar ilegalmente para um país na calada da noite.
+The coffee company aims to raise funds from investors eager to invest in ethical concerns.
+A empresa de café visa arrecadar fundos de investidores ansiosos para investir em questões éticas.
 
-Why are you calling me in the dead of night? Can’t this wait till morning?
-Por que você está me ligando na calada da noite? Isso não pode esperar até amanhã de manhã?
+All funds raised will be used by Children With Leukaemia.
+Todos os fundos arrecadados serão usados pela Crianças Com Leucemia.
 
-In the dead of the night, he broke camp and fled.
-Na calada da noite, ele levantou acampamento e fugiu.
+Her brother definitely has a screw loose – I don’t really trust him.
+Com certeza, o irmão dela tem um parafuso a menos – eu não confio muito nele.
 
-She left in the dead of the night.
-Ela partiu na calada da noite.
+My sister looked at me as if I had a screw loose.
+A minha irmã olhou para mim como se eu tivesse um parafuso a menos.
 
-Have you ever wondered why the cat is so particular about settling territorial disputes in the dead of night, when everyone is asleep?
-Já se perguntou por que os gatos são tão exigentes em resolver disputas territoriais na calada da noite, quando todos estão dormindo?
+That guy on the corner must have a screw loose or something, because he’s been standing out there yelling obscenities at passersby all morning.
+Aquele sujeito na esquina deve ter um parafuso a menos ou algo assim, porque ele tem estado ali gritando obscenidades para os transeuntes a manhã toda.
 
-You never know what strange ideas will suddenly grip me in the dead of night, when I’m alone with my computer.
-Nunca se sabe que ideias estranhas prenderão a minha atenção na calada da noite, quando estou a sós com o meu computador.
+My old uncle Pete has a few screws loose, but he’s a really nice guy.
+Meu velho tio Pete tem alguns parafusos a menos, mas é um cara muito legal.
 
-Theoretically, you could get there in 13 hours but then you’d probably have to travel in the dead of night.
-Teoricamente, você poderia chegar lá em 13 horas, mas aí você provavelmente teria que viajar na calada da noite.
+What’s the matter with you? Do you have a screw loose, or what?
+Qual é o problema com você? Você tem um parafuso a menos ou o quê?
 
-She received regular telephone calls in the dead of night from her father, helpless with pain.
-Ela recebia ligações telefônicas regulares do seu pai na calada da noite, desesperado de dor.
+He’s sort of strange. I think he’s got a loose screw.
+Ele é um tanto estranho. Acho que ele tem um parafuso a menos.
 
-It seems that someone is secretly dropping money all over the city in the dead of night, for no apparent purpose.
-Parece que alguém está deixando dinheiro por toda a cidade na calada da noite, sem nenhum propósito aparente.
+He must have a screw loose, spending that sort of money on a holiday!
+Ele deve ter um parafuso a menos, gastando tanto dinheiro em um feriado! (That sort of money é um jeito de se referir a “muito dinheiro”.)
 
-We buried it in the garden at dead of night.
-Nós o enterramos no jardim, na calada da noite.
+He dresses his cats up in little coats for the winter. Sometimes I think he must have a screw loose.
+Ele veste seus gatos com pequenos casacos no inverno. Às vezes, acho que falta um parafuso a ele.
 
-She crept in at dead of night, while they were asleep.
-Ela se infiltrou na calada da noite, enquanto eles estavam dormindo.
+Yes, he has a screw loose somewhere. He wears a heavy jacket in the middle of summer.
+Sim, ele tem um parafuso a menos em algum lugar. Ele usa uma jaqueta pesada no meio do verão.
 
-At dead of night, Clive marched out of the fort.
-Na calada da noite, o Clive marchou para fora do forte.
+Under no circumstances are you to go out.
+Sob hipótese alguma você pode sair.
 
-The research project will be assessed over time.
-O projeto de pesquisa será avaliado com o passar do tempo.
+Under no circumstances will I let you go out.
+Sob hipótese alguma eu deixarei você sair.
 
-Students are encouraged to consider the way language changes over time.
-Os estudantes são encorajados a considerar a forma pela qual a língua muda com o tempo.
+Under no circumstances will I allow you to go to a party on a school night.
+Sob hipótese alguma eu te deixarei ir a uma festa tendo aula no dia seguinte.
 
-As well as differing from place to place, what is defined as crime changes over time.
-Além de diferir de lugar para lugar, o que é definido como crime muda com o passar do tempo.
+“Under no circumstances will I ever go back there again!” “Why? What happened?”
+“Sob hipótese alguma eu jamais voltarei lá novamente!” “Por quê? O que aconteceu?”
 
-There were also important changes over time.
-Também houve mudanças importantes com o tempo.
+Under no circumstances should you lend Paul any money.
+Sob hipótese alguma você deve emprestar dinheiro ao Paul.
 
-Things will get better over time.
-As coisas vão ficar melhor com o passar do tempo.
+The proceedings can be reported but under no circumstances may any child involved in the proceedings be identified.
+As medidas judiciais podem ser relatadas, mas sob hipótese alguma qualquer criança envolvida nas medidas judiciais pode ser identificada.
 
-It’s fascinating to watch how a baby changes and develops over time.
-É fascinante ver como um bebê muda e se desenvolve com o passar do tempo.
+Under no circumstances must I mention to anyone that I have turned down that invitation.
+Sob hipótese alguma eu devo mencionar a qualquer um que eu recusei aquele convite.
 
-However, as time goes by and they become more experienced, more time will be given to these important matters.
-Contudo, conforme o tempo passar e eles se tornarem mais experientes, mais tempo será dedicado a estas importantes questões.
+Under no circumstances should you see them again.
+Sob hipótese alguma você deve vê-los novamente.
 
-As time goes by, I feel as if I know less and less.
-Conforme o tempo passa, sinto como se soubesse cada vez menos.
+Tears must not be allowed to fill their eyes and under no circumstances run down their cheeks.
+Não se deve permitir que lágrimas encham os seus olhos e, sob hipótese alguma, que escorram em suas bochechas.
 
-As time goes by, this will all disappear.
-Com o tempo, isso tudo desaparecerá.
+In no circumstances are you allowed to drive home after you’ve had more than one drink!
+Sob hipótese alguma você tem permissão de dirigir para casa após ter tomado mais de uma bebida!
 
-As time passed, we came to see the truth of what she had said.
-Conforme o tempo passou, viemos a perceber a verdade daquilo que ela havia dito.
+I’m sorry for my sudden resignation, but in no circumstances will I work for some sexist manager like him.
+Sinto muito pelo meu pedido de demissão repentino, mas sob hipótese alguma eu trabalharei para um gerente sexista como ele.
 
-As time passes, you will begin to understand better.
-Conforme o tempo passa, você começará a compreender melhor.
+In no circumstances should I be responsible for your reckless driving of my vehicle.
+Sob hipótese alguma eu devo ser responsável por sua condução imprudente do meu veículo.
 
-I became more and more confident as time passed and I learned new skills.
-Tornei-me cada vez mais confiante conforme o tempo passava e eu aprendia novas habilidades.
+“Can I talk you into serving as a referee again?” “Heavens, no! In any circumstances!”
+“Eu consigo te convencer a servir como árbitro novamente?” “Céus, não! Sob hipótese alguma!”
 
-With time, things always get better.
-Com o tempo, as coisas sempre melhoram.
+Do not, under any circumstances, eat that cake. It’s for tomorrow’s party.
+Não coma, sob hipótese alguma, aquele bolo. É para a festa de amanhã.
 
-Time heals all wounds, as they say. With time, you’ll feel better.
-O tempo cura todas as feridas, como dizem. Com o tempo, você se sentirá melhor.
+And you may not, under any circumstances, administer medications.
+E você não pode, sob hipótese alguma, administrar medicamentos.
 
-Her condition should improve with time.
-A condição dela deve melhorar com o tempo.
-
-Let’s get to work right now.
-Vamos pôr mãos à obra agora mesmo.
-
-We need to stop delaying and get to work.
-Precisamos parar de delongar e pôr mãos à obra.
-
-He promised to get to work on the state’s massive deficit.
-Ele prometeu se pôr a trabalhar (para resolver) o enorme déficit do estado.
-
-He returned to America where he got to work on a new novel.
-Ele voltou para a América, onde pôs-se a trabalhar em um novo romance.
-
-We’d better get to work on stacking this wood if we want to finish before it gets dark.
-É melhor começarmos a trabalhar amontoando estas madeiras se quisermos terminar antes que escureça. (Note o uso da estrutura had better. Note também que wood é mass noun que geralmente não leva plural, assim como, por exemplo, water. Woods, no plural, é uma palavra diferente que significa “mata” ou “bosque”.)
-
-You had better buckle down if you want to get good grades.
-É melhor você pôr mãos à obra se quiser obter boas notas. (Had better, uma vez mais…)
-
-All right, we’ll buckle down now and study for exams.
-Está bem, vamos pôr mãos à obra agora e estudar para as provas.
-
-I’ve wasted a lot of time, and now I have to buckle down and finish my homework.
-Gastei muito tempo e agora preciso pôr mãos à obra e terminar a lição de casa.
-
-I’ve got a lot of work to do, but I can’t seem to get down to it.
-Tenho muito trabalho para fazer, mas parece que não consigo meter mãos à obra.
-
-OK, people, let’s get down to it.
-OK, pessoal, vamos pôr mãos à obra.
-
-The meeting’s not due to start for another five minutes but we’re all here, so let’s get down to it.
-A reunião está para começar só daqui a cinco minutos, mas já estamos todos aqui, então mãos à obra.
-
-We need to break camp and head back to town before nightfall.
-Nós precisamos levantar acampamento e retornar à cidade antes de anoitecer.
-
-First thing in the morning, we broke camp and moved on northward.
-De manhã cedo, nós levantamos acampamento e seguimos para o norte.
-
-Okay, everyone. It’s time to break camp. Take those tents down and fold them carefully.
-Tudo bem, pessoal. Está na hora de levantar acampamento. Desmontem aquelas tendas e dobrem-nas cuidadosamente.
-
-It is the hunter’s rule to see that the fire is extinguished before breaking camp.
-É a norma do caçador verificar que o fogo está apagado antes de levantar acampamento.
-
-When Atticus returned, he told me to break camp.
-Quando o Atticus voltou, ele me disse para levantar acampamento.
-
-It is midnight now, and we’ll break camp at six in the morning.
-É meia-noite agora, e nós levantaremos acampamento às seis da manhã.
-
-After passing a miserable night, we broke camp at 4:30 o’clock.
-Depois de passar uma noite péssima, nós levantamos acampamento às 4:30.
-
-We break camp reluctantly, for this place seems like home to us.
-Nós levantamos acampamento com relutância, porque esse lugar é como um lar para nós.
-
-They reached their objective just as the Indians were beginning to break camp.
-Eles alcançaram o seu objetivo no momento em que os índios estavam começando a levantar acampamento.
-
-They were glad to break camp after their experiences on that lake.
-Eles estavam contentes em levantar acampamento depois das suas experiências naquele lago.
-
-Jill had such a long face yesterday after she learned that she failed her exam.
-Jill estava com uma cara tão amarrada ontem depois de ficar sabendo que não havia passado na prova.
-
-Hey, kiddo, why the long face? Is something bothering you?
-Ei, filho, por que esta cara amarrada? Algo está incomodando você?
-
-Greg’s long face was a clear indication of his feelings.
-A cara amarrada do Greg era uma clara indicação de seus sentimentos.
-
-Why do you have such a long face?
-Por que você está com uma cara tão amarrada?
-
-He took one look at her long face and said ‘What’s wrong?’
-Ele olhou uma vez para a cara amarrada dela e disse: “O que está errado?”
-
-Don’t pull a long face when I tell you to go to bed.
-Não faça uma cara tão amarrada quando lhe digo para ir para a cama.
-
-I don’t know what’s troubling him, but he’s been pulling a long face for two days already.
-Não sei o que o está incomodando, mas ele tem estado fazendo uma cara fechada já faz dois dias.
-
-Why are you pulling such a long face?
-Por que você está fazendo uma cara tão amarrada?
-
-She’s got such a long face because her boyfriend broke up with her.
-Ela está com uma cara tão amarrada porque seu namorado terminou com ela.
-
-– Why has he got such a long face? – He failed his exam.
-– Por que ele está de cara tão fechada? – Ele não passou no exame.
-
-What’s the world coming to when you can’t leave your house for five minutes without someone trying to rob you?
-Onde é que esse mundo vai parar uma vez que você não pode nem sair de casa por cinco minutos sem que alguém tente te assaltar?
-
-What’s the world coming to when so many poor children have to go to bed hungry every night?
-Onde é que esse mundo vai parar uma vez que tantas crianças pobres têm que ir dormir com fome todas as noites?
-
-I saw in the paper that they arrested a kid just for bringing a fork to school. What’s the world coming to?
-Eu vi no jornal que uma criança foi presa só por levar um garfo para a escola. Onde é que esse mundo vai parar?
-
-The times have changed and I guess I’m old-fashioned because I keep asking myself, “What’s the world coming to?”
-Os tempos mudaram e eu acho que sou antiquado, porque fico me perguntando: “onde é que esse mundo vai parar?”
-
-What’s the world coming to when a businessman has to pay to buy back his own stuff?
-Onde é que esse mundo vai parar uma vez que um empresário precisa pagar para comprar de volta as suas próprias coisas?
-
-What’s the world coming to when you can’t kill a man and be sure he’ll stay dead?
-Onde é que esse mundo vai parar uma vez que você não consegue matar um homem e ter a certeza de que ele permanecerá morto?
-
-Instant tea? What’s the world coming to?
-Chá instantâneo? Onde é que esse mundo vai parar?
-
-When I read the news these days I sometimes wonder what’s the world coming to.
-Quando leio as notícias hoje em dia, eu às vezes me pergunto onde é que esse mundo vai parar.
-
-A reality show where two strangers try to survive in the wild for 21 days, naked. What’s the world coming to?
-Um reality show no qual dois estranhos tentam sobreviver na selva por 21 dias, pelados. Onde é que esse mundo vai parar?
-
-What’s the world coming to when we can’t even trust our own family?
-Onde é que esse mundo vai parar uma vez que nós não podemos nem mesmo confiar na nossa própria família?
-
-The books were normally kept under lock and key in the library vault.
-Normalmente os livros eram mantidos a sete chaves no cofre da biblioteca.
-
-We keep these family jewels under lock and key.
-Mantemos estas joias da família guardadas a sete chaves.
-
-Her jewellery is securely under lock and key at the bank.
-As joias dela estão guardadas seguramente a sete chaves no banco.
-
-The jewels are kept under lock and key.
-As joias são guardadas a sete chaves.
-
-These files should be kept under lock and key.
-Estes arquivos devem ser guardados a sete chaves.
-
-I keep my grandmother’s secret recipe under lock and key so that no one can steal it.
-Eu guardo a receita secreta da minha avó a sete chaves para que ninguém possa roubá-la.
-
-He keeps the wine under lock and key.
-Ele mantém o vinho a sete chaves.
-
-The exam papers must be kept under lock and key until half an hour before the exam.
-Os papéis da prova devem ser mantidos a sete chaves até meia hora antes do exame.
-
-Dad keeps all his liquor under lock and key.
-O papai mantém todas suas bebidas a sete chaves. (Note a palavra liquor, que é usada como plural para se referir a diferentes bebidas alcoólicas, e não só a licores.)
-
-I keep it under lock and key at all times.
-Eu o mantenho a sete chaves o tempo todo.
-
-The company went bankrupt.
-A empresa foi à falência.
-
-If the firm cannot sell its products, it will go bankrupt.
-Se a firma não puder vender os seus produtos, ela irá à falência.
-
-Several thousand companies go bankrupt in the UK each year.
-Vários milhares de empresas vão à falência no Reino Unido todo ano.
-
-They piled up such a huge debt that they soon went bankrupt.
-Eles acumularam uma dívida tão grande que logo foram à falência.
-
-Many small businesses will go bankrupt unless interest rates fall.
-Muitos pequenos negócios irão à falência a menos que as taxas de juros caiam.
-
-He went bankrupt after only a year in business.
-Ele foi à falência após apenas um ano no mercado.
-
-The recession has led to many small businesses going bankrupt.
-A recessão resultou em muitos pequenos negócios irem à falência.
-
-I’ll go bankrupt if you kids keep asking me for money!
-Eu irei à falência se vocês, crianças, continuarem me pedindo dinheiro!
-
-The company went bankrupt and was put into the hands of the receivers.
-A empresa foi à falência e foi colocada nas mãos dos administradores judiciais.
-
-When it was obvious the company was going bankrupt, the government ordered all their assets to be frozen.
-Quando estava óbvio que a empresa iria à falência, o governo ordenou que todos os seus bens fossem congelados.
-
-The business went bankrupt after investing an enormous amount on a product that failed to sell.
-O negócio foi à falência depois de investir uma quantia enorme em um produto que fracassou em vendas.
-
-Without the help of a generous investor, the theatre company would have gone bankrupt.
-Sem a ajuda de um investidor generoso, a companhia de teatro teria ido à falência.
-
-Vacuum the cake crumbs, would you?
-Passe o aspirador nas migalhas de bolo, está bem?
-
-Then I vacuumed the carpet.
-Daí eu passei o aspirador no tapete.
-
-I need to vacuum the living room before I go out.
-Eu preciso passar o aspirador na sala de estar antes de sair.
-
-It’s important to vacuum once a week.
-É importante passar o aspirador uma vez por semana.
-
-I vacuumed the carpets today.
-Eu passei o aspirador nos tapetes hoje.
-
-The chambermaid vacuumed the carpets yesterday.
-A camareira passou o aspirador nos tapetes ontem.
-
-You must vacuum all the carpets and rugs regularly.
-Você precisa passar o aspirador em todos os tapetes e capachos regularmente.
-
-Vacuum the carpet to pick up any loose dirt.
-Passe o aspirador no tapete para coletar qualquer sujeira solta.
-
-The inside of the house has been vacuumed recently.
-Passaram o aspirador no interior da casa recentemente.
-
-Can’t you vacuum later? We’re already late.
-Você não pode passar o aspirador mais tarde? Nós já estamos atrasados.
-
-Tom was vacuuming the carpet while Mary was mopping the kitchen floor.
-O Tom estava passando o aspirador no tapete enquanto a Mary estava esfregando o chão da cozinha.
-
-She knew he wouldn’t go back on his word.
-Ela sabia que ele não voltaria atrás com a palavra.
-
-In his five years as Treasurer he broke solemn promises, went back on guarantees and cooked the books whenever necessary.
-Em seus cinco anos como tesoureiro, ele quebrou solenes promessas, voltou atrás em garantias e fraudou a contabilidade sempre que preciso.
-
-He has promised me he will do it and he has never gone back on a promise.
-Ele me prometeu que o fará, e ele nunca voltou atrás numa promessa.
-
-The budget crisis has forced the President to go back on his word.
-A crise orçamentária forçou o presidente a voltar atrás na sua palavra.
-
-The government looks likely to go back on its decision to close the mines.
-Parece provável que o governo volte atrás em sua decisão de fechar as minas.
-
-You can rely on her. She won’t go back on her word.
-Você pode confiar nela. Ela não voltará atrás na palavra.
-
-She’s gone back on her word and decided not to give me the job after all.
-Ela voltou atrás na palavra e decidiu não me dar o emprego, afinal de contas.
-
-Jason is totally unreliable and always goes back on his word.
-O Jason não é nem um pouco confiável e sempre volta atrás na palavra.
-
-Both leaders feared that the other would go back on his word.
-Ambos os líderes temiam que o outro voltaria atrás na palavra.
-
-They claimed that the president had gone back on his word.
-Eles alegaram que o presidente havia voltado atrás na palavra.
+Don’t open the door to strangers under any circumstances.
+Não abra a porta para estranhos sob hipótese alguma.
 
     """
 
