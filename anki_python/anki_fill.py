@@ -56,8 +56,8 @@ def run_automation():
     
     # Login
     login_page = LoginPage(driver)
-    login_page.preencher_email("seu_email@exemplo.com")
-    login_page.preencher_senha("sua_senha")
+    login_page.fill_email("seu_email@exemplo.com")  # Fill your email
+    login_page.fill_password("password")  # Fill your password
     login_page.click_btn_login()
     time.sleep(3)
 
