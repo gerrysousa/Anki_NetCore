@@ -80,6 +80,7 @@ def run_automation():
         logged_area_page.fill_tag_card("Automatico_Sem_audio")
         logged_area_page.click_btn_save()
         time.sleep(1)
+        print(f"Adicionado! Índice: {index} ")
 
     # Finish
     print("++++++++++++++++++ Completed!!! ++++++++++++++++++")
