@@ -1,6 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import time
 
@@ -21,27 +23,41 @@ class LoginPage:
         self.driver.find_element(*self.btnLogin).click()
 
 class LoggedAreaPage:
-    def __init__(self, driver):
+    def __init__(self, driver, wait_timeout=20):
         self.driver = driver
+        self.wait = WebDriverWait(driver, wait_timeout)
         self.txt_front = (By.XPATH, "//div[span='Front']/div/div")
         self.txt_back = (By.XPATH, "//div[span='Back']/div/div")
         self.txt_tag = (By.XPATH, "//div[span='Tags']/div/input")
-        self.btn_save = (By.XPATH, "//button[text()='Add']")
+        self.btn_save = (
+            By.XPATH,
+            "//button[contains(@class,'btn-primary') and normalize-space()='Add']",
+        )
         self.btn_add = (By.XPATH, "//a[text()='Add']")
 
+    def _fill_contenteditable(self, locator, text):
+        el = self.wait.until(EC.presence_of_element_located(locator))
+        el.click()
+        el.send_keys(Keys.CONTROL, "a")
+        el.send_keys(Keys.DELETE)
+        el.send_keys(str(text))
+
     def fill_front_card(self, front):
-        self.driver.find_element(*self.txt_front).send_keys(front)
+        self._fill_contenteditable(self.txt_front, front)
 
     def fill_back_card(self, back):
-        self.driver.find_element(*self.txt_back).send_keys(back)
+        self._fill_contenteditable(self.txt_back, back)
 
     def fill_tag_card(self, tag):
-        element = self.driver.find_element(*self.txt_tag)
-        element.clear()  # clear
+        element = self.wait.until(EC.presence_of_element_located(self.txt_tag))
+        element.clear()
         element.send_keys(tag)
+        element.send_keys(Keys.TAB)
 
     def click_btn_save(self):
-        self.driver.find_element(*self.btn_save).click()
+        btn = self.wait.until(EC.element_to_be_clickable(self.btn_save))
+        self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", btn)
+        btn.click()
 
     def click_btn_add(self):
         self.driver.find_element(*self.btn_add).click()
@@ -67,12 +83,22 @@ def run_automation():
     time.sleep(3)
 
     # Read CSV file
-    df = pd.read_csv("anki_data.csv", sep=";", header=0)  # header=0 if first line of csv is header
+    df = pd.read_csv("anki_data.csv", sep=";", header=0)
+
+    col_front = "Inglês"
+    col_back = "Português"
+    if col_front not in df.columns or col_back not in df.columns:
+        raise ValueError(
+            f"CSV deve ter colunas '{col_front}' e '{col_back}'. Encontrado: {list(df.columns)}"
+        )
 
     # Add cards on Deck
     for index, row in df.iterrows():
-        front = row[0]
-        back = row[1]
+        front = row[col_front]
+        back = row[col_back]
+        if pd.isna(front) or pd.isna(back):
+            print(f"Pulando índice {index}: célula vazia")
+            continue
         logged_area_page.fill_front_card(front)
         time.sleep(0.5)
         logged_area_page.fill_back_card(back)

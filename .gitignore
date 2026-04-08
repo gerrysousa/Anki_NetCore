@@ -346,3 +346,5 @@ ASALocalRun/
 .vscode/
 **/*/myenv/
 **/*/progresso.json
+.myenv/*
+**/.myenv/*
